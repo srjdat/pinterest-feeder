@@ -1,5 +1,6 @@
 from PIL import Image
 import os
+from dotenv import load_dotenv
 
 def load_images(): 
     
@@ -7,7 +8,8 @@ def load_images():
     VALID_FORMATS = ('.png', '.jpg', '.jpeg', '.webp')
 
     # check if you can find images folder
-    path = r'/Users/srjdat/Development/pinterest-feeder/data' # open all the png ones. idk why i'm doing this
+    load_dotenv()
+    path = os.getenv('FILE_PATH') # open all images in this folder 
     num = 0 # naming scheme
     for i in os.scandir(path=path): 
         if i.name.lower().endswith(VALID_FORMATS): # make sure it's actually an image
@@ -15,7 +17,6 @@ def load_images():
             images.append(img) 
 
     print(len(images))
-    print(images)
     
     return images
 def main(): 
