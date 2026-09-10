@@ -1,3 +1,4 @@
+from typing import Any
 from PIL import Image
 import os
 from dotenv import load_dotenv
@@ -6,7 +7,7 @@ from dotenv import load_dotenv
     Loads images from given file path in the .env file. 
     Checks if path exists, if so go through and get all the images. 
 """
-def load_images(): 
+def load_images()-> list[Any]: 
     
     images = [] # where all the images will go
     VALID_FORMATS = ('.png', '.jpg', '.jpeg', '.webp')
@@ -20,8 +21,6 @@ def load_images():
             if i.name.lower().endswith(VALID_FORMATS): # make sure it's actually an image
                 img = Image.open(i)
                 images.append(img) 
-
-    print(len(images))
 
     return images
 
