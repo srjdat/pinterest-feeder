@@ -5,8 +5,11 @@ import numpy as np
 
 def dataset(**kwargs): 
     queries_list = ['anime picture', 'silver supercar picture', 'fashion picture']
-    path = kwargs.get('path', None)
-    images_list = load_images(path=path)
+    path = kwargs.get('path')
+    if path != None:
+        images_list = load_images(path=path)
+    else: 
+        images_list = load_images()
 
     dataset = []
     # manually create dataset

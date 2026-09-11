@@ -15,7 +15,7 @@ def load_images(**kwargs)-> list[Any]: # if they give us a path otherwise use th
     # check if you can find images folder
     load_dotenv()
     path = kwargs.get('path', os.getenv('FILE_PATH')) # open all images in this folder
-    print(path)
+    print("Hello")
     if path:
         for i in os.scandir(path=path):
             if i.name.lower().endswith(VALID_FORMATS): # make sure it's actually an image
