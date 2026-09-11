@@ -3,9 +3,10 @@ import torch
 from transformers import CLIPProcessor, CLIPModel
 import numpy as np
 
-def dataset(): 
+def dataset(**kwargs): 
     queries_list = ['anime picture', 'silver supercar picture', 'fashion picture']
-    images_list = load_images()
+    path = kwargs.get('path', None)
+    images_list = load_images(path=path)
 
     dataset = []
     # manually create dataset
