@@ -4,3 +4,5 @@ venv/
 src/__pycache__/
 training/
 models/
+make_train_data/
+src/naming.py 

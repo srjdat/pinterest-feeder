@@ -5,7 +5,7 @@ from dataset import dataset
 model = PinterestFeeder(1024)
 model.load_state_dict(torch.load("models/pinterest_feeder1.pth", weights_only=True))
 model.eval()
-data = dataset(path='/Users/srjdat/Development/pinterest-feeder/tests')
+data = dataset(path='/Users/srjdat/Development/pinterest-feeder/tests', queries=['anime art', 'silver luxury car', 'fashion inspiration'])
 
 unique_images = list(set(item['image_filename'] for item in data))
 
