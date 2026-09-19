@@ -1,6 +1,8 @@
 import json
 from typing import Any
 from pathlib import Path
+
+from transformers.image_utils import ImageFeatureExtractionMixin
 from image_loader import load_images
 import torch
 from transformers import CLIPProcessor, CLIPModel
@@ -82,12 +84,15 @@ def dataset(**kwargs):
     for image, item in zip(images_list, data_list):
         # create the image embedding to use
         image_info = process(images=image, return_tensors='pt') # type: ignore
-        image_features = model.get_image_features(image_info['pixel_values'])
+        image_features = model.get_image_features(pixel_values=image_info['pixel_values'])
 
         # item is a dict
         for query, label in zip(item['queries'], item['label']):
             text_info= process(text=query, return_tensors='pt', padding=True) # type: ignore
-            text_features = model.get_text_features(text_info['input_ids'], text_info['attention_mask'])
+            text_features = model.get_text_features(input_ids=text_info['input_ids'], attention_mask=text_info['attention_mask'])
+
+            # [1, 1024] tensor size
+            concatenated_embedding = torch.cat((image_features.pooler_output, text_features.pooler_output), 1) #type: ignore
 
             # append to the list that we're going to return
             return_list.append(
@@ -95,7 +100,7 @@ def dataset(**kwargs):
                     "image_filename": item['image_filename'],
                     "query": query,
                     "label": label,
-                    "input": torch.cat((image_features.pooler_output, text_features.pooler_output), 0) #type: ignore
+                    "input": concatenated_embedding
                 }
             )
 
@@ -105,6 +110,6 @@ def main():
 
 
 if __name__ == "__main__":
-    usage = resource.getrusage(resource.RUSAGE_SELF)
+    # usage = resource.getrusage(resource.RUSAGE_SELF)
+    # print(usage.ru_maxrss )
     main()
-    print(usage.ru_maxrss )

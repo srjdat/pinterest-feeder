@@ -1,7 +1,6 @@
 import torch.nn as nn
 
-
-class PinterestFeeder(nn.Module): 
+class PinterestFeeder(nn.Module):
     def __init__(self, input_size: int) -> None:
         super().__init__()
         self.layer1 = nn.Linear(input_size, 256)
@@ -12,4 +11,3 @@ class PinterestFeeder(nn.Module):
         x = self.layer1(x)
         x = self.relu(x)
         return self.layer2(x)
-
