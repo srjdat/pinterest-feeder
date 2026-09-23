@@ -20,7 +20,7 @@ criteration = nn.BCEWithLogitsLoss()
 
 # get the data from dataset.py
 # has features: query: str, image_filename, label, combined_embedding
-data = dataset()
+data = dataset(train=True)
 num_epochs = 10
 
 # split for trianing and validation is 80/20

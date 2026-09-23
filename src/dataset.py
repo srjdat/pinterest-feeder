@@ -2,19 +2,15 @@ import json
 from typing import Any
 from pathlib import Path
 
-from transformers.image_utils import ImageFeatureExtractionMixin
 from image_loader import load_images
 import torch
 from transformers import CLIPProcessor, CLIPModel
-import numpy as np
-import os
 import sys
 from memory_profiler import profile
-import resource
 
 dataset_list = [] # type: ignore
 
-def create_dataset(image_list: list[Any]):
+def create_dataset(image_list: list[Any], train_mode: bool):
     global dataset_list
     dataset_list = [] # make it empty every time we call it again to create a new dadtaset
 
@@ -27,7 +23,8 @@ def create_dataset(image_list: list[Any]):
                 {
                     "category": "fashion",
                     "image_filename": image.filename,
-                    "queries": []
+                    "queries": [],
+                    "label": []
                 }
             )
         elif "silver" in image.filename:
@@ -35,7 +32,8 @@ def create_dataset(image_list: list[Any]):
                 {
                     "category": "car",
                     "image_filename": image.filename,
-                    "queries": []
+                    "queries": [],
+                    "label": []
                 }
             )
         elif "anime" in image.filename:
@@ -43,13 +41,18 @@ def create_dataset(image_list: list[Any]):
                 {
                     "category": "anime",
                     "image_filename": image.filename,
-                    "queries": []
+                    "queries": [],
+                    "label": []
                 }
             )
 
-    # dump this dataset into the json file
-    with open('data.json', 'w') as outfile:
-        json.dump(dataset_list, outfile, indent=2)
+    if train_mode: # if we are in training mode
+        # dump this dataset into the json file
+        with open('data.json', 'w') as outfile:
+            json.dump(dataset_list, outfile, indent=2)
+    else: # we are in testing mode
+        with open('test.json', 'w') as outfile:
+            json.dump(dataset_list, outfile, indent=2)
 
 # @profile
 def dataset(**kwargs):
@@ -61,18 +64,33 @@ def dataset(**kwargs):
     else:
         images_list = load_images()
 
-    # i'm creating a variable so i can change it later if need me also just cleaner
-    json_file = Path('data.json')
-    json_created = True if json_file.is_file() else False
+    # TODO: rework this because i am making a new file for making test data
+    # only if we're in train mode
+    train_mode = kwargs.get('train') # this is a boolean so if true we are in training mode if false we are in testing mode
+    if train_mode: # if we are in train mode
+        # i'm creating a variable so i can change it later if need me also just cleaner
+        json_file = Path('data.json')
+        json_created = True if json_file.is_file() else False
 
-    # read json file
-    if json_created: # if we already created the json file and we have update labels
-        with open('data.json', 'r') as infile:
-            data_list = json.load(infile)
-    else: # if we haven't created the json file
-        create_dataset(images_list)
-        print("please run this file again, there was no dataset to read from")
-        sys.exit()
+        # read json file
+        if json_created: # if we already created the json file and we have update labels
+            with open('data.json', 'r') as infile:
+                data_list = json.load(infile)
+        else: # if we haven't created the json file
+            create_dataset(images_list, train_mode=True)
+            print("please run this script again, dataset has been created")
+            sys.exit()
+    else: # we are in testing mode
+        json_file = Path('test.json')
+        json_created = True if json_file.is_file() else False
+
+        if json_created: # we have the test.json file made
+            with open('test.json', 'r') as infile:
+                data_list = json.load(infile)
+        else: # we have not created the file yet
+            create_dataset(images_list, train_mode=False)
+            print("run this script again, dataset has been created")
+            sys.exit()
 
     # create a list that we are going to return
     return_list = []
