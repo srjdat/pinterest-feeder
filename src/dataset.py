@@ -9,6 +9,13 @@ import sys
 from memory_profiler import profile
 
 dataset_list = [] # type: ignore
+# use mps if on mac, cuda if on nvidia gpu, else cpu
+if torch.backends.mps.is_available():
+    device = "mps"
+elif torch.cuda.is_available():
+    device = "cuda"
+else:
+    device = "cpu"
 
 def create_dataset(image_list: list[Any], train_mode: bool):
     global dataset_list
@@ -96,17 +103,17 @@ def dataset(**kwargs):
     return_list = []
 
     # create the model and processor so we can get the image and query embeddings to combine
-    model = CLIPModel.from_pretrained('openai/clip-vit-base-patch32')
+    model = CLIPModel.from_pretrained('openai/clip-vit-base-patch32').to(device)
     process = CLIPProcessor.from_pretrained('openai/clip-vit-base-patch32')
 
     for image, item in zip(images_list, data_list):
         # create the image embedding to use
-        image_info = process(images=image, return_tensors='pt') # type: ignore
+        image_info = process(images=image, return_tensors='pt').to(device) # type: ignore
         image_features = model.get_image_features(pixel_values=image_info['pixel_values'])
 
         # item is a dict
         for query, label in zip(item['queries'], item['label']):
-            text_info= process(text=query, return_tensors='pt', padding=True) # type: ignore
+            text_info= process(text=query, return_tensors='pt', padding=True).to(device) # type: ignore
             text_features = model.get_text_features(input_ids=text_info['input_ids'], attention_mask=text_info['attention_mask'])
 
             # [1, 1024] tensor size

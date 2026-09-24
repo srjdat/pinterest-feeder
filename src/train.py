@@ -5,8 +5,17 @@ from dataset import dataset
 import random
 import torch.optim.adamw
 
+
+# use mps if on mac, cuda if on nvidia gpu, else cpu
+if torch.backends.mps.is_available():
+    device = "mps"
+elif torch.cuda.is_available():
+    device = "cuda"
+else:
+    device = "cpu"
+
 # make the model
-model = PinterestFeeder(1024)
+model = PinterestFeeder(1024).to(device)
 
 # hyperparameters
 learning_rate = 1e-4
@@ -62,8 +71,8 @@ for epoch in range(num_epochs):
         optimizer.zero_grad()
 
         # get label and input embeddings
-        label = torch.tensor([item['label']], dtype=torch.float32)
-        input_embedding = item['input']
+        label = torch.tensor([item['label']], dtype=torch.float32, device=device)
+        input_embedding = item['input'].to(device)
 
         # score using our model
         score = model(input_embedding[0]) # get score form the model
@@ -79,9 +88,8 @@ for epoch in range(num_epochs):
     # validation loop
     with torch.inference_mode():
         for item in validation_data:
-
-            label = torch.tensor([item['label']], dtype=torch.float32) # get labels for each image item
-            input_embedding = item['input'] # get input embeddings
+            label = torch.tensor([item['label']], dtype=torch.float32, device=device)
+            input_embedding = item['input'].to(device)
             score = model(input_embedding[0]) # get score form the model
             loss = criteration(score, label) # calculate loss
 
