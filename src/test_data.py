@@ -14,13 +14,14 @@ else:
 # get image embeddings
 # make a list of dicts with name, embedding, category (maybe)
 @torch.inference_mode()
-def test_data(path: str = "tests/", device: str = "cpu"):
+# i'm adding a device parameter, if the user specifically wants to use a cpu, mps, or cuda. but for my it's going to be mps since i'm in mac  
+def test_data(path: str = "tests/", device=device):
     # path to images that we are going to embed
     # by default it's set to test/
     image_list = load_images(path=path)
     data = []
 
-    model = CLIPModel.from_pretrained('openai/clip-vit-base-patch32').to(device)
+    model = CLIPModel.from_pretrained('openai/clip-vit-base-patch32').to(device) # type: ignore
     model.eval()
     process = CLIPProcessor.from_pretrained('openai/clip-vit-base-patch32')
 

@@ -58,7 +58,7 @@ def create_dataset(image_list: list[Any], train_mode: bool):
         with open('data.json', 'w') as outfile:
             json.dump(dataset_list, outfile, indent=2)
     else: # we are in testing mode
-        with open('test.json', 'w') as outfile:
+        with open('test_sample.json', 'w') as outfile:
             json.dump(dataset_list, outfile, indent=2)
 
 # @profile
@@ -73,7 +73,8 @@ def dataset(**kwargs):
 
     # TODO: rework this because i am making a new file for making test data
     # only if we're in train mode
-    train_mode = kwargs.get('train') # this is a boolean so if true we are in training mode if false we are in testing mode
+    train_mode = kwargs.get('train') # kwargs variable that checks if we're in train or not. value of the variable is either true or false or none
+    test_mode = kwargs.get('test') # kwargs variable that checks if we're in test or not. value of the variable is either true or false or none
     if train_mode: # if we are in train mode
         # i'm creating a variable so i can change it later if need me also just cleaner
         json_file = Path('data.json')
@@ -87,8 +88,8 @@ def dataset(**kwargs):
             create_dataset(images_list, train_mode=True)
             print("please run this script again, dataset has been created")
             sys.exit()
-    else: # we are in testing mode
-        json_file = Path('test.json')
+    elif test_mode: # we are in testing mode
+        json_file = Path('test_sample.json')
         json_created = True if json_file.is_file() else False
 
         if json_created: # we have the test.json file made
@@ -103,11 +104,11 @@ def dataset(**kwargs):
     return_list = []
 
     # create the model and processor so we can get the image and query embeddings to combine
-    model = CLIPModel.from_pretrained('openai/clip-vit-base-patch32').to(device)
+    model = CLIPModel.from_pretrained('openai/clip-vit-base-patch32').to(device) # type: ignore
     process = CLIPProcessor.from_pretrained('openai/clip-vit-base-patch32')
 
-    for image, item in zip(images_list, data_list):
-        # create the image embedding to use
+    for image, item in zip(images_list, data_list): # type: ignore
+        #  create the image embedding to use
         image_info = process(images=image, return_tensors='pt').to(device) # type: ignore
         image_features = model.get_image_features(pixel_values=image_info['pixel_values'])
 
@@ -131,7 +132,7 @@ def dataset(**kwargs):
 
     return return_list
 def main():
-    dataset()
+    dataset(train=True, path='data/')
 
 
 if __name__ == "__main__":

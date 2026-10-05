@@ -1,3 +1,5 @@
+import math
+
 import torch
 from model import PinterestFeeder
 from test_data import test_data
@@ -17,7 +19,7 @@ model.eval()
 
 # path is automatically set to test folder so no need right here but you can change it if test folder is somewhere else
 data = test_data(device=device)
-queries = ['anime art', 'silver luxury car', 'fashion inspiration']
+queries = ["cream track jacket with striped sleeves","brown jacket","fashion picture","anime picture","supercar"]
 # print(data)
 
 unique_images = list(set(item['image_filename'] for item in data))
@@ -49,6 +51,15 @@ with torch.inference_mode():
             )
 
 with torch.inference_mode():
+    count = len(queries)
+
+
     for embedding in embedding_list:
+        if count > 0: 
+            count -= 1
+        else: 
+            count = len(queries)-1
+            print()
         score = model(embedding['embedding'][0])
-        print(f"score: {torch.sigmoid(score)}, image: {embedding['image_filename']}, query: {embedding['query']}")
+        print(f"score: {round(torch.sigmoid(score).item(), 5)}, image: {embedding['image_filename']}, query: {embedding['query']}")
+
