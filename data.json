@@ -1,26 +1,20 @@
 [
   {
     "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_9.jpg",
+    "image_filename": "data/fashion_9.jpg",
     "queries": [
-      "black oversized jacket with wide-leg jeans",
-      "white collared shirt and beige tie outfit",
-      "dark baggy streetwear outfit",
-      "black jacket layered over a shirt and tie",
-      "wide-leg dark jeans with black leather shoes",
-      "Naruto raising his arm",
-      "silver Ferrari in a showroom",
-      "Naruto making a hand sign",
-      "silver Porsche at sunset",
-      "Sakura holding a kunai"
+      "black oversized jacket with wide-leg dark jeans",
+      "white collared shirt and beige tie under a black jacket",
+      "dark baggy outfit with black leather shoes",
+      "blond anime ninja raising an arm above his head",
+      "rear three-quarter view of a silver supercar at night",
+      "black blazer and tie with wide gray trousers",
+      "black jacket paired with slim white trousers"
     ],
     "label": [
       1,
       1,
       1,
-      1,
-      1,
-      0,
       0,
       0,
       0,
@@ -29,19 +23,21 @@
   },
   {
     "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_28.jpg",
+    "image_filename": "data/anime_28.jpg",
     "queries": [
-      "Naruto raising his arm",
-      "blond ninja in an orange and black outfit",
-      "Naruto action pose on a white background",
-      "silver Ferrari in a showroom",
-      "silver Porsche at sunset",
-      "cream track jacket with striped sleeves"
+      "blond anime ninja raising an arm above his head",
+      "orange and black ninja outfit on a white background",
+      "headband-wearing anime character with a raised fist",
+      "front view of a silver sports car in a showroom",
+      "brown checked shirt with a dark necktie",
+      "black-haired anime swordsman in an open pale blue shirt",
+      "blond ninja sitting at a dining table"
     ],
     "label": [
       1,
       1,
       1,
+      0,
       0,
       0,
       0
@@ -49,19 +45,21 @@
   },
   {
     "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_14.jpg",
+    "image_filename": "data/anime_14.jpg",
     "queries": [
-      "Sasuke holding a sword",
-      "black-haired anime character with an open white shirt",
-      "Sasuke with purple lightning",
-      "silver supercar on a city street",
-      "red and dark striped hoodie",
-      "cropped gray jacket with pleated gray trousers"
+      "black-haired anime swordsman in an open pale blue shirt",
+      "anime character with a purple rope belt and lightning",
+      "sword-wielding character against a tiled wall",
+      "silver sports car at a brightly lit gas station at night",
+      "white and navy striped polo with wide black trousers",
+      "blond anime ninja viewed from behind with an arm raised",
+      "black-haired swordsman wearing a closed black suit"
     ],
     "label": [
       1,
       1,
       1,
+      0,
       0,
       0,
       0
@@ -69,19 +67,21 @@
   },
   {
     "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_sf90_stradale.jpg",
+    "image_filename": "data/silver_sf90_stradale.jpg",
     "queries": [
-      "silver Ferrari in a showroom",
-      "front view of a silver supercar",
-      "sports car displayed beside other luxury cars",
-      "black oversized jacket with wide-leg jeans",
-      "Naruto making a hand sign",
-      "blue hoodie with a long checked scarf"
+      "front view of a silver sports car in a showroom",
+      "silver supercar with a dark windshield indoors",
+      "low silver coupe displayed beside colorful cars",
+      "blond anime ninja raising an arm above his head",
+      "brown checked shirt with a dark necktie",
+      "silver supercar parked on a cobbled city street",
+      "silver sports car parked on a snowy road"
     ],
     "label": [
       1,
       1,
       1,
+      0,
       0,
       0,
       0
@@ -89,239 +89,21 @@
   },
   {
     "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_laferrari.JPG",
+    "image_filename": "data/silver_laferrari.JPG",
     "queries": [
-      "silver supercar on a city street",
-      "Ferrari LaFerrari front three-quarter view",
-      "silver sports car beside ornate buildings",
-      "cream track jacket with striped sleeves",
-      "young Naruto wearing goggles",
-      "matching pale striped jacket and trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_15.jpg",
-    "queries": [
-      "Naruto seen from behind",
-      "blond anime ninja raising a fist",
-      "black and orange jacket with a red spiral emblem",
-      "gray supercar at an intersection",
-      "silver convertible supercar at a gas station",
-      "matching pale striped jacket and trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_29.jpg",
-    "queries": [
-      "silver-haired Goku action artwork",
-      "Dragon Ball character in a torn orange outfit",
-      "anime fighter reaching toward the viewer",
-      "silver supercar parked at night",
-      "gray cardigan over a white shirt and black tie",
-      "striped polo shirt with wide-leg black pants"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_8.jpg",
-    "queries": [
-      "black blazer with baggy gray trousers",
-      "shirt and tie outfit with a baseball cap",
-      "oversized tailoring with a shoulder bag",
-      "Ichigo holding a sword",
-      "silver Ferrari parked in a city at night",
-      "white-haired anime character with bright blue eyes"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_kid_naruto_2.JPG",
-    "queries": [
-      "Naruto eating noodles at a table",
-      "sleepy anime character in pajamas",
-      "cozy anime breakfast scene by a window",
-      "white supercar with both doors raised",
-      "silver Pagani in an indoor garage",
-      "red and dark striped hoodie"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_40.jpg",
-    "queries": [
-      "black T-shirt with loose blue jeans",
-      "streetwear outfit with a beanie and sunglasses",
-      "baggy jeans with a silver waist chain",
-      "Sasuke holding a sword",
-      "silver Pagani with black wheels",
-      "red-haired Goku in a snowy setting"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_17.jpg",
-    "queries": [
-      "blond anime character in an upside-down pose",
-      "anime character wearing a green beanie and tie",
-      "dynamic anime illustration against a blue sky",
-      "silver Porsche at sunset",
-      "cream track jacket with striped sleeves",
-      "long black coat with wide-leg brown trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_16.jpg",
-    "queries": [
-      "Ichigo holding a sword",
-      "orange-haired anime swordsman in black robes",
-      "Bleach action artwork on a white background",
-      "silver Ferrari in a showroom",
-      "side view of a silver open-top supercar",
-      "cropped gray jacket with pleated gray trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_adidas_jacket_1.JPG",
-    "queries": [
-      "cream track jacket with striped sleeves",
-      "light jacket with decorative toggle closures",
-      "cream jacket paired with black trousers",
-      "Naruto seen from behind",
-      "silver Porsche with a large rear wing",
-      "Sakura holding a kunai"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_red_top.JPG",
-    "queries": [
-      "red and dark striped hoodie",
-      "striped hoodie with baggy black jeans",
-      "oversized streetwear with red shoes",
-      "Naruto eating noodles at a table",
-      "silver Ferrari Enzo with a raised door",
-      "white-haired anime character with bright blue eyes"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_small_top.JPG",
-    "queries": [
-      "striped polo shirt with wide-leg black pants",
-      "baseball cap and tucked-in polo outfit",
-      "casual outfit beside a red vending machine",
-      "silver-haired Goku action artwork",
-      "silver Bugatti on an overcast day",
-      "Rukia crouching with a sword"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_12.jpg",
-    "queries": [
+      "silver supercar parked on a cobbled city street",
+      "front three-quarter view of a silver car beside a sidewalk",
+      "low silver sports car near tall ornate buildings",
       "blue-haired anime character in an orange sweater",
-      "colorful anime portrait with star shapes",
-      "anime character resting their face on one hand",
-      "silver Pagani with black wheels",
-      "striped polo shirt with wide-leg black pants",
-      "matching pale striped jacket and trousers"
+      "white and navy striped polo with wide black trousers",
+      "rear view of a silver sports car at sunset",
+      "rear view of a red supercar on a city street"
     ],
     "label": [
       1,
       1,
       1,
+      0,
       0,
       0,
       0
@@ -329,39 +111,21 @@
   },
   {
     "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_13.jpg",
+    "image_filename": "data/anime_15.jpg",
     "queries": [
-      "Ichigo in a black graphic T-shirt",
-      "orange-haired anime character in casual clothes",
-      "black shirt with a white skull design",
-      "silver convertible supercar at a gas station",
-      "silver supercar in a dark showroom",
-      "cream track jacket with striped sleeves"
+      "blond anime ninja viewed from behind with an arm raised",
+      "black jacket with a red spiral on an anime character's back",
+      "spiky-haired character wearing a headband on a white background",
+      "silver supercar parked beside a hedge under a cloudy sky",
+      "red and dark striped long-sleeve top with baggy black jeans",
+      "white-haired anime fighter reaching toward the viewer",
+      "blue-haired character wearing a white jacket"
     ],
     "label": [
       1,
       1,
       1,
       0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver f80_1.JPG",
-    "queries": [
-      "gray supercar at an intersection",
-      "low sports car with a rear wing",
-      "silver car in front of ornate city buildings",
-      "cream toggle jacket with baggy black jeans",
-      "Naruto forming a blue energy sphere",
-      "dark striped top with olive wide-leg trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
       0,
       0,
       0
@@ -369,19 +133,21 @@
   },
   {
     "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_naruto_1.JPG",
+    "image_filename": "data/anime_29.jpg",
     "queries": [
-      "Naruto making a hand sign",
-      "blond ninja wearing a forehead protector",
-      "Naruto in an orange and black jacket",
-      "silver Pagani in an indoor garage",
-      "gray cardigan over a white shirt and black tie",
-      "fitted gray top with baggy blue jeans"
+      "white-haired anime fighter reaching toward the viewer",
+      "battle-damaged orange outfit on a spiky-haired character",
+      "anime action illustration with flying debris",
+      "side view of a silver coupe outside a modern building",
+      "cream track jacket with striped sleeves",
+      "blond anime character eating at a table",
+      "white-haired fighter standing with both hands in pockets"
     ],
     "label": [
       1,
       1,
       1,
+      0,
       0,
       0,
       0
@@ -389,79 +155,21 @@
   },
   {
     "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_adidas_jacket_2.JPG",
+    "image_filename": "data/fashion_8.jpg",
     "queries": [
-      "cream toggle jacket with baggy black jeans",
-      "light jacket with tan shoes",
-      "casual outfit with a silver waist chain",
-      "blond anime character in an upside-down pose",
-      "overhead view of a silver Porsche 918",
-      "white-haired anime character reaching forward"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_11.jpg",
-    "queries": [
-      "blond anime character in a bomber jacket",
-      "anime character standing with hands in pockets",
-      "low-angle anime portrait on a white background",
-      "silver Porsche with a large rear wing",
-      "silver track-style supercar parked at a curb",
-      "red and dark striped hoodie"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_39.jpg",
-    "queries": [
-      "black-haired anime character lifting ski goggles",
-      "anime winter outfit with a pale scarf",
-      "close-up anime portrait in falling snow",
-      "silver supercar with doors and rear bodywork open",
-      "matching pale striped jacket and trousers",
-      "striped polo shirt with wide-leg black pants"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_semi_formal.JPG",
-    "queries": [
-      "black quarter-zip sweater over a shirt and tie",
-      "dark smart casual outfit",
-      "black wide-leg trousers with dress shoes",
+      "black blazer and tie with wide gray trousers",
+      "baseball cap and shoulder bag with a loose tailored outfit",
+      "dark suit jacket with baggy gray pants outdoors",
       "blue-haired anime character in an orange sweater",
-      "silver supercar on a cobblestone driveway",
-      "red-haired Goku crouching with one hand on the ground"
+      "silver open-top supercar with raised doors beneath palm trees",
+      "black T-shirt with baggy light blue jeans",
+      "black blazer paired with knee-length shorts"
     ],
     "label": [
       1,
       1,
       1,
+      0,
       0,
       0,
       0
@@ -469,19 +177,43 @@
   },
   {
     "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_38.jpg",
+    "image_filename": "data/anime_kid_naruto_2.JPG",
     "queries": [
-      "Ichigo and Rukia sword artwork",
-      "two anime characters in black robes",
-      "Bleach characters in dynamic fighting poses",
-      "silver Ferrari Enzo with a raised door",
-      "side profile of a silver sports coupe",
-      "cream track jacket with striped sleeves"
+      "blond anime character eating at a table",
+      "sleepy anime boy wearing a nightcap and pale pajamas",
+      "anime breakfast scene beside a sunlit window",
+      "overhead rear three-quarter view of a silver sports car",
+      "cream track jacket with striped sleeves",
+      "anime character tumbling upside down against a blue sky",
+      "dark-haired character eating outdoors at night"
     ],
     "label": [
       1,
       1,
       1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_40.jpg",
+    "queries": [
+      "black T-shirt with baggy light blue jeans",
+      "black cap and sunglasses with loose denim",
+      "casual outfit with a chain hanging from jeans",
+      "blond anime boy wearing goggles on his forehead",
+      "gray sports car parked along an urban curb",
+      "cream track jacket with striped sleeves",
+      "black suit jacket with a necktie"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
       0,
       0,
       0
@@ -489,239 +221,21 @@
   },
   {
     "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_10.jpg",
+    "image_filename": "data/anime_17.jpg",
     "queries": [
-      "black-haired anime swordsman crouching",
-      "anime character holding a katana",
-      "white-shirt anime character in an action pose",
-      "side view of a silver open-top supercar",
-      "red and dark striped hoodie",
-      "cropped gray jacket with pleated gray trousers"
+      "anime character tumbling upside down against a blue sky",
+      "green beanie and white shirt in an anime action pose",
+      "upside-down character wearing gray trousers and a striped tie",
+      "rear three-quarter view of a dark gray supercar outdoors",
+      "matching light striped jacket and baggy trousers",
+      "orange-haired anime swordsman holding a blade",
+      "upside-down character wearing a black coat"
     ],
     "label": [
       1,
       1,
       1,
       0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_34.jpg",
-    "queries": [
-      "fitted black top with baggy khaki pants",
-      "casual mirror selfie with wide-leg trousers",
-      "dark top and olive-toned pants outfit",
-      "Naruto making a hand sign",
-      "silver Bugatti photographed from the front at night",
-      "Super Saiyan 4 Goku with a long red tail"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_20.jpg",
-    "queries": [
-      "black long-sleeve top with cuffed dark jeans",
-      "wide-leg denim with layered necklaces",
-      "dark casual outfit with a shoulder bag",
-      "Ichigo and Rukia sword artwork",
-      "silver Ferrari parked in an underground garage",
-      "red-haired Goku standing with one hand raised"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_12.jpg",
-    "queries": [
-      "silver supercar parked at night",
-      "rear view of a sports car with a large wing",
-      "luxury car beneath illuminated trees",
-      "black quarter-zip sweater over a shirt and tie",
-      "black-haired anime character wielding a flaming weapon",
-      "light blue beanie with wide striped trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_13.jpg",
-    "queries": [
-      "white supercar with both doors raised",
-      "white sports car on a gravel driveway",
-      "front view of a supercar outside a modern building",
-      "fitted black top with baggy khaki pants",
-      "blond anime swordsman in an upside-down pose",
-      "gray cardigan over a white shirt and black tie"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_turbo_s.JPG",
-    "queries": [
-      "silver Porsche at sunset",
-      "rear three-quarter view of a sports coupe",
-      "sports car parked beside palm trees",
-      "brown checked shirt with a black tie",
-      "Sasuke surrounded by blue lightning",
-      "fitted white graphic T-shirt with baggy black pants"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_21.jpg",
-    "queries": [
-      "brown checked shirt with a black tie",
-      "patterned shirt tucked into loose black trousers",
-      "overhead view of a shirt and tie outfit",
-      "black-haired anime swordsman crouching",
-      "rear view of a silver supercar in a showroom",
-      "Goku and Vegeta standing together"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_35.jpg",
-    "queries": [
-      "long black coat with wide-leg brown trousers",
-      "layered outfit with a patterned scarf",
-      "dark overcoat and shoulder bag outfit",
-      "young Naruto wearing goggles",
-      "silver Porsche with an oversized rear wing",
-      "Sakura holding a kunai"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_23.jpg",
-    "queries": [
-      "gray cropped jacket with baggy black pants",
-      "black beanie and gray jacket outfit",
-      "casual streetwear beside a scooter",
-      "Naruto forming a blue energy sphere",
-      "silver sports car in a busy parking area",
-      "white-haired anime character with bright blue eyes"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_37.jpg",
-    "queries": [
-      "cream sweater with a long pale scarf",
-      "light knitwear with baggy dark jeans",
-      "cozy neutral outfit in a bedroom mirror",
-      "black-haired anime character wielding a flaming weapon",
-      "overhead view of a silver Porsche Carrera GT",
-      "Rukia crouching with a sword"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_8.jpg",
-    "queries": [
-      "silver Pagani with black wheels",
-      "supercar parked on cobblestones",
-      "silver sports car beside a red convertible",
-      "black long-sleeve top with cuffed dark jeans",
-      "smiling white-haired anime character stretching an arm",
-      "charcoal henley shirt with loose black trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_39.jpg",
-    "queries": [
-      "silver convertible supercar at a gas station",
-      "sports car beneath bright lights at night",
-      "silver Pagani with an open roof",
-      "long black coat with wide-leg brown trousers",
-      "Dragon Ball fighter holding a glowing energy sphere",
-      "white T-shirt with cuffed dark jeans"
-    ],
-    "label": [
-      1,
-      1,
-      1,
       0,
       0,
       0
@@ -729,39 +243,21 @@
   },
   {
     "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_naruto_fanart.jpg",
+    "image_filename": "data/anime_16.jpg",
     "queries": [
-      "young Naruto wearing goggles",
-      "blond anime character looking over his shoulder",
-      "Naruto portrait in a black shirt",
-      "silver Ferrari parked in a city at night",
-      "silver Bugatti photographed from the front at night",
-      "long black coat with wide-leg brown trousers"
+      "orange-haired anime swordsman holding a blade",
+      "black-robed anime fighter in a dynamic pose",
+      "spiky orange hair and a sword on a white background",
+      "silver supercar displayed inside a bright showroom",
+      "light knit cardigan with gray trousers",
+      "blue-haired anime character in an orange sweater",
+      "orange-haired character sitting with a book"
     ],
     "label": [
       1,
       1,
       1,
       0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_11.jpg",
-    "queries": [
-      "silver Pagani in an indoor garage",
-      "supercar with exposed dark carbon details",
-      "front three-quarter view of a silver sports car",
-      "gray cropped jacket with baggy black pants",
-      "Naruto tying his headband",
-      "brown short-sleeve top layered over cream sleeves"
-    ],
-    "label": [
-      1,
-      1,
-      1,
       0,
       0,
       0
@@ -769,79 +265,21 @@
   },
   {
     "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_stussy.JPG",
+    "image_filename": "data/fashion_adidas_jacket_1.JPG",
     "queries": [
-      "Stussy graphic top with dark baggy jeans",
-      "streetwear outfit with a red shoulder bag",
-      "baseball cap and burgundy sleeve outfit",
-      "blond anime swordsman in an upside-down pose",
-      "rear view of a silver Porsche in a garage",
-      "white-haired anime character reaching forward"
+      "cream track jacket with striped sleeves",
+      "off-white Adidas jacket with gray sleeve stripes",
+      "cream toggle jacket with black trousers",
+      "blond ninja adjusting a headband with both hands",
+      "side view of a silver supercar in a parking garage",
+      "red and dark striped long-sleeve top with baggy black jeans",
+      "brown track jacket with striped sleeves"
     ],
     "label": [
       1,
       1,
       1,
       0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_10.jpg",
-    "queries": [
-      "silver Porsche with a large rear wing",
-      "sports coupe parked in a garage",
-      "rear three-quarter view of a silver track car",
-      "cream sweater with a long pale scarf",
-      "blond Super Saiyan standing among broken rocks",
-      "pale striped T-shirt with wide-leg black jeans"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_38.jpg",
-    "queries": [
-      "silver supercar with doors and rear bodywork open",
-      "sports car with tan seats beneath palm trees",
-      "front view of an open-top supercar at sunset",
-      "Stussy graphic top with dark baggy jeans",
-      "dark-haired anime character holding a sword",
-      "brown textured sweater with cream wide-leg trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_9.jpg",
-    "queries": [
-      "silver Ferrari Enzo with a raised door",
-      "supercar parked on a city street",
-      "angular silver sports car outside stone buildings",
-      "brown toggle jacket over a white T-shirt",
-      "red-haired Goku in a snowy setting",
-      "navy long-sleeve top with wide-leg dark trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
       0,
       0,
       0
@@ -849,179 +287,21 @@
   },
   {
     "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_36.jpg",
+    "image_filename": "data/fashion_red_top.JPG",
     "queries": [
-      "brown toggle jacket over a white T-shirt",
-      "brown jacket with loose gray trousers",
-      "neutral layered outfit with a brown handbag",
-      "Sasuke surrounded by blue lightning",
-      "silver and dark blue Bugatti outside a hotel",
-      "red-haired Goku crouching with one hand on the ground"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_22.jpg",
-    "queries": [
-      "gray jacket with metal toggle closures",
-      "textured gray outerwear with black trousers",
-      "casual outfit with wired earphones",
-      "Dragon Ball fighter holding a glowing energy sphere",
-      "silver and black Bugatti parked on a city street",
-      "Super Saiyan 4 Goku with a long red tail"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_26.jpg",
-    "queries": [
-      "navy graphic T-shirt with blue jeans",
-      "casual outfit with layered necklaces",
-      "overhead outfit photo with wired earphones",
-      "Naruto tying his headband",
-      "side view of a silver sports car at night",
-      "red-haired Goku standing with one hand raised"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_9.jpg",
-    "queries": [
-      "Naruto forming a blue energy sphere",
-      "blond ninja in an action pose",
-      "Naruto artwork with swirling blue lines",
-      "silver Bugatti on an overcast day",
-      "matching pale striped jacket and trousers",
-      "gray cardigan over a white shirt and black tie"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_32.jpg",
-    "queries": [
-      "fitted cream top with baggy dark jeans",
-      "casual outfit reclining on a sofa",
-      "dark denim with a silver waist chain",
-      "blond Super Saiyan standing among broken rocks",
-      "silver supercar with both doors raised at night",
-      "Goku and Vegeta standing together"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_14.jpg",
-    "queries": [
-      "side view of a silver open-top supercar",
-      "low silver sports car against a gray wall",
-      "silver Ferrari with sculpted side panels",
-      "gray jacket with metal toggle closures",
+      "red and dark striped long-sleeve top with baggy black jeans",
+      "striped collared shirt and red shoes outdoors",
+      "loose dark denim paired with a red striped top",
       "white-haired anime character with bright blue eyes",
-      "blue hoodie with a long checked scarf"
+      "silver supercar parked beside dark vehicles on a city street",
+      "white and navy striped polo with wide black trousers",
+      "red striped shirt paired with slim white trousers"
     ],
     "label": [
       1,
       1,
       1,
       0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_28.jpg",
-    "queries": [
-      "silver Ferrari parked in a city at night",
-      "front three-quarter view of a silver supercar",
-      "sports car beside illuminated tall buildings",
-      "navy graphic T-shirt with blue jeans",
-      "young Naruto surrounded by cats",
-      "dark striped top with olive wide-leg trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_29.jpg",
-    "queries": [
-      "silver Bugatti on an overcast day",
-      "front view of a luxury sports car",
-      "silver coupe parked beside a hedge",
-      "fitted cream top with baggy dark jeans",
-      "Ichigo and Rukia with a large sword",
-      "light blue beanie with wide striped trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_15.jpg",
-    "queries": [
-      "silver supercar in a dark showroom",
-      "rear three-quarter view of a car with a large wing",
-      "metallic sports car beneath rectangular ceiling lights",
-      "black top with faded wide-leg jeans",
-      "Sakura holding a kunai",
-      "black jacket with a gray fur-trimmed hood"
-    ],
-    "label": [
-      1,
-      1,
-      1,
       0,
       0,
       0
@@ -1029,19 +309,21 @@
   },
   {
     "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_33.jpg",
+    "image_filename": "data/fashion_small_top.JPG",
     "queries": [
-      "black top with faded wide-leg jeans",
-      "dark casual outfit with a black handbag",
-      "mirror selfie in loose blue denim",
-      "dark-haired anime character holding a sword",
-      "high-angle front view of a dark gray LaFerrari",
-      "Sakura holding a kunai"
+      "white and navy striped polo with wide black trousers",
+      "short-sleeve striped shirt and dark baseball cap",
+      "baggy black pants outfit beside a vending machine",
+      "blond anime ninja tumbling through the air",
+      "front view of a silver supercar with dark hood stripes indoors",
+      "cream track jacket with striped sleeves",
+      "white striped polo paired with blue shorts"
     ],
     "label": [
       1,
       1,
       1,
+      0,
       0,
       0,
       0
@@ -1049,14 +331,15 @@
   },
   {
     "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_8.jpg",
+    "image_filename": "data/anime_12.jpg",
     "queries": [
-      "black-haired anime character wielding a flaming weapon",
-      "anime fighter in a white shirt and black tie",
-      "dynamic anime pose with orange flames",
-      "silver supercar in a dark showroom",
-      "rear view of a silver supercar in a showroom",
-      "cream track jacket with striped sleeves"
+      "blue-haired anime character in an orange sweater",
+      "anime portrait with yellow stars on a blue background",
+      "character resting their cheek on one hand",
+      "front view of a silver sports car in a showroom",
+      "beige zip-up jacket with black trousers",
+      "orange-haired anime character in a black graphic T-shirt",
+      "blue-haired character on a plain white background"
     ],
     "label": [
       1,
@@ -1064,19 +347,21 @@
       1,
       0,
       0,
+      0,
       0
     ]
   },
   {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_27.jpg",
+    "category": "anime",
+    "image_filename": "data/anime_13.jpg",
     "queries": [
-      "brown blazer with light baggy jeans",
-      "seated casual outfit with a gray cap",
-      "wide-leg denim with red shoes",
-      "red-haired Goku in a snowy setting",
-      "rear three-quarter view of a dark gray LaFerrari",
-      "white-haired anime character with bright blue eyes"
+      "orange-haired anime character in a black graphic T-shirt",
+      "standing anime boy wearing dark pants",
+      "black shirt with a large white design on an anime character",
+      "silver sports car at a brightly lit gas station at night",
+      "brown checked shirt with a dark necktie",
+      "blond headband-wearing ninja making hand signs",
+      "blue-haired character holding a sword"
     ],
     "label": [
       1,
@@ -1084,19 +369,21 @@
       1,
       0,
       0,
+      0,
       0
     ]
   },
   {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_31.jpg",
+    "category": "car",
+    "image_filename": "data/silver f80_1.JPG",
     "queries": [
-      "oversized black T-shirt and long black shorts",
-      "black loafers with white socks",
-      "casual monochrome outfit with a backward cap",
-      "two anime characters against a red background",
-      "silver Ferrari Enzo in a driveway",
-      "Rukia crouching with a sword"
+      "gray supercar with a rear wing on a city street",
+      "front three-quarter view of a low gray sports car",
+      "gray car parked outside an ornate pale building",
+      "blond anime boy wearing goggles on his forehead",
+      "red and dark striped long-sleeve top with baggy black jeans",
+      "rear three-quarter view of a silver supercar at night",
+      "red convertible parked on a beach"
     ],
     "label": [
       1,
@@ -1104,24 +391,2029 @@
       1,
       0,
       0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_naruto_1.JPG",
+    "queries": [
+      "blond headband-wearing ninja making hand signs",
+      "anime fighter in a black and orange outfit",
+      "spiky-haired ninja with trailing headband ties",
+      "silver supercar parked beside a hedge under a cloudy sky",
+      "white and navy striped polo with wide black trousers",
+      "blond anime character wearing a brown and navy jacket",
+      "blond ninja eating a bowl of noodles"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
       0
     ]
   },
   {
     "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_25.jpg",
+    "image_filename": "data/fashion_adidas_jacket_2.JPG",
+    "queries": [
+      "cream track jacket with striped sleeves",
+      "off-white toggle jacket with wide black jeans",
+      "light Adidas jacket with tan boots",
+      "blond anime ninja holding a glowing blue energy sphere",
+      "rear three-quarter view of a silver sports car against a dark wall",
+      "black quarter-zip sweater over a white shirt and tie",
+      "brown jacket paired with white shorts"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_11.jpg",
+    "queries": [
+      "blond anime character wearing a brown and navy jacket",
+      "side view of a spiky-haired character with hands in pockets",
+      "brown jacket with dark sleeves over a pale shirt in anime art",
+      "side view of a silver coupe outside a modern building",
+      "red and dark striped long-sleeve top with baggy black jeans",
+      "black-haired anime character lifting a helmet visor",
+      "blond character raising both arms overhead"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_39.jpg",
+    "queries": [
+      "black-haired anime character lifting a helmet visor",
+      "pale blue armored outfit with a dark visor",
+      "close-up illustration of a character wearing a helmet",
+      "overhead rear three-quarter view of a silver sports car",
+      "cream track jacket with striped sleeves",
+      "two anime swordsmen in black robes",
+      "bareheaded character wearing a black suit"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_semi_formal.JPG",
+    "queries": [
+      "black quarter-zip sweater over a white shirt and tie",
+      "dark trousers with a collared shirt and black knitwear",
+      "black shoes and loose black pants in a dressed-up outfit",
+      "two spiky-haired anime fighters standing side by side",
+      "rear three-quarter view of a silver supercar at night",
+      "fitted black top with baggy beige trousers",
+      "black sweater paired with blue denim shorts"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_38.jpg",
+    "queries": [
+      "two anime swordsmen in black robes",
+      "orange-haired and black-haired characters holding swords",
+      "paired anime fighters on a pale background",
+      "rear three-quarter view of a dark gray supercar outdoors",
+      "cream track jacket with striped sleeves",
+      "blond anime character eating at a table",
+      "two blond characters wearing red tracksuits"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_10.jpg",
+    "queries": [
+      "black-haired anime boy holding a sword",
+      "pale shirt on an anime swordsman in an action pose",
+      "dark-haired character with a gold-colored sword guard",
+      "silver supercar displayed inside a bright showroom",
+      "matching light striped jacket and baggy trousers",
+      "blond anime boy wearing goggles on his forehead",
+      "black-haired character holding a basketball"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_34.jpg",
+    "queries": [
+      "fitted black top with baggy beige trousers",
+      "mirror selfie in a black shirt and wide khaki pants",
+      "dark shoes beneath loose beige pants",
+      "anime character tumbling upside down against a blue sky",
+      "silver open-top supercar with raised doors beneath palm trees",
+      "dark fitted long-sleeve top with wide cuffed jeans",
+      "black shirt paired with a beige skirt"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_20.jpg",
+    "queries": [
+      "dark fitted long-sleeve top with wide cuffed jeans",
+      "black shoulder bag and layered necklaces with dark denim",
+      "baggy dark jeans with large turned-up hems",
+      "two anime swordsmen in black robes",
+      "gray sports car parked along an urban curb",
+      "brown checked shirt with a dark necktie",
+      "dark top paired with white shorts"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_12.jpg",
+    "queries": [
+      "rear three-quarter view of a silver supercar at night",
+      "silver sports car with a large rear wing on a lit street",
+      "low silver coupe beside decorative nighttime lights",
+      "blond ninja adjusting a headband with both hands",
+      "cream track jacket with striped sleeves",
+      "white supercar with both doors raised",
+      "silver car parked in a snowy mountain landscape"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_13.jpg",
+    "queries": [
+      "white supercar with both doors raised",
+      "front three-quarter view of a white car outside a concrete building",
+      "white sports car with silver wheels and open doors",
+      "white-haired anime character with bright blue eyes",
+      "cream track jacket with striped sleeves",
+      "rear view of a silver sports car at sunset",
+      "black sports car parked inside a showroom"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_turbo_s.JPG",
+    "queries": [
+      "rear view of a silver sports car at sunset",
+      "silver coupe beside palm trees and an orange sky",
+      "sports car parked along a palm-lined road",
+      "blond anime ninja tumbling through the air",
+      "matching light striped jacket and baggy trousers",
+      "silver supercar beside a red sports car on cobblestones",
+      "silver car inside a windowless garage"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_21.jpg",
+    "queries": [
+      "brown checked shirt with a dark necktie",
+      "loose black trousers beneath a patterned shirt",
+      "overhead outfit photo of a checkered shirt and black pants",
+      "white-haired anime character stretching an arm",
+      "side view of a silver supercar in a parking garage",
+      "long black coat with wide brown trousers",
+      "checked shirt paired with blue shorts"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_35.jpg",
+    "queries": [
+      "long black coat with wide brown trousers",
+      "dark layered outfit and a patterned scarf",
+      "loose brown pants and black outerwear against a brick wall",
+      "red-haired anime fighter with two fingers near the face",
+      "silver supercar parked beside dark vehicles on a city street",
+      "cropped gray denim jacket with wide black trousers",
+      "black coat paired with a short skirt"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_23.jpg",
+    "queries": [
+      "cropped gray denim jacket with wide black trousers",
+      "black bucket hat with a gray jacket outdoors",
+      "dark baggy outfit beside a white scooter",
+      "black-haired anime swordswoman in flowing black robes",
+      "front view of a silver supercar with dark hood stripes indoors",
+      "cream sweater and scarf with wide dark trousers",
+      "gray jacket paired with black shorts"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_37.jpg",
+    "queries": [
+      "cream sweater and scarf with wide dark trousers",
+      "mirror selfie in pale knitwear and baggy dark pants",
+      "light fringed scarf with a loose cream top",
+      "blue-haired anime character holding a sword in front of the face",
+      "rear three-quarter view of a silver sports car against a dark wall",
+      "red and white top with wide dark jeans",
+      "cream top paired with a white skirt"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_8.jpg",
+    "queries": [
+      "silver supercar beside a red sports car on cobblestones",
+      "front three-quarter view of a silver car near ornate buildings",
+      "silver sports car with black wheels in a courtyard",
+      "blond anime ninja holding a glowing blue energy sphere",
+      "light knit cardigan with gray trousers",
+      "silver sports car at a brightly lit gas station at night",
+      "rear view of a blue car on a snowy road"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_39.jpg",
+    "queries": [
+      "silver sports car at a brightly lit gas station at night",
+      "silver sports car with dark wheels beside fuel pumps",
+      "low silver supercar beneath a white station canopy",
+      "two spiky-haired anime fighters standing side by side",
+      "beige zip-up jacket with black trousers",
+      "silver open-top supercar inside a concrete garage",
+      "red sports car parked inside a living room"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_naruto_fanart.jpg",
+    "queries": [
+      "blond anime boy wearing goggles on his forehead",
+      "side-profile anime portrait with whisker-like cheek marks",
+      "spiky blond hair and a black shirt in an illustration",
+      "front view of a silver sports car in a showroom",
+      "light knit cardigan with gray trousers",
+      "blond anime ninja holding a blue energy sphere",
+      "front-facing character wearing a white helmet"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_11.jpg",
+    "queries": [
+      "silver open-top supercar inside a concrete garage",
+      "front three-quarter view of a silver car with a rear wing",
+      "silver sports car with tan seats indoors",
+      "anime character tumbling upside down against a blue sky",
+      "brown checked shirt with a dark necktie",
+      "rear view of a silver supercar in a dark showroom",
+      "rear view of a red coupe in a garage"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_stussy.JPG",
+    "queries": [
+      "red and white top with wide dark jeans",
+      "rear-view streetwear outfit with a red backpack",
+      "light baseball cap and graphic raglan shirt at a crossing",
+      "red-haired anime fighter standing with one hand raised",
+      "rear three-quarter view of a silver supercar at night",
+      "brown jacket",
+      "red top paired with white shorts"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_10.jpg",
+    "queries": [
+      "silver sports coupe with a large rear wing indoors",
+      "rear three-quarter view of a silver car in a showroom",
+      "silver car with yellow brake calipers and dark windows",
+      "two anime swordsmen in black robes",
+      "white and navy striped polo with wide black trousers",
+      "silver open-top supercar with raised doors beneath palm trees",
+      "front view of a red car on a beach"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_38.jpg",
+    "queries": [
+      "silver open-top supercar with raised doors beneath palm trees",
+      "front view of a silver car with tan seats and open body panels",
+      "silver sports car on a tropical road at sunset",
+      "white-haired anime character stretching an arm",
+      "red and dark striped long-sleeve top with baggy black jeans",
+      "silver supercar parked beside a hedge under a cloudy sky",
+      "rear view of a black coupe inside a garage"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_9.jpg",
+    "queries": [
+      "silver supercar with raised doors on a city street",
+      "front three-quarter view of a silver car beside stone steps",
+      "angular silver sports car outside pale townhouses",
+      "red-haired anime fighter with two fingers near the face",
+      "cream track jacket with striped sleeves",
+      "side profile of a silver open-top sports car",
+      "rear view of a red car in a forest"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_36.jpg",
+    "queries": [
+      "brown jacket",
+      "brown toggle jacket over a white T-shirt",
+      "brown jacket with loose beige trousers",
+      "white-haired anime fighter reaching toward the viewer",
+      "silver open-top supercar with raised doors beneath palm trees",
+      "gray textured jacket with metal clasps",
+      "brown jacket paired with blue shorts"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_22.jpg",
+    "queries": [
+      "gray textured jacket with metal clasps",
+      "gray jacket and wide black trousers outdoors",
+      "dark baggy outfit with a gray toggle jacket",
+      "blond anime character wearing a brown and navy jacket",
+      "gray sports car parked along an urban curb",
+      "faded dark graphic T-shirt with blue jeans",
+      "brown jacket with metal clasps"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_26.jpg",
+    "queries": [
+      "faded dark graphic T-shirt with blue jeans",
+      "layered necklaces and wired earphones with a casual outfit",
+      "loose blue denim paired with a dark printed shirt",
+      "blond anime character upside down against a blue sky",
+      "side view of a silver supercar in a parking garage",
+      "white fitted long-sleeve top with baggy black jeans",
+      "dark graphic shirt paired with red shorts"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_9.jpg",
+    "queries": [
+      "blond anime ninja holding a blue energy sphere",
+      "headband-wearing character in a white cloak",
+      "anime action drawing with swirling blue energy",
+      "silver sports car at a brightly lit gas station at night",
+      "beige zip-up jacket with black trousers",
+      "black-haired anime fighter punching through yellow energy",
+      "blond character eating at a table"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_32.jpg",
+    "queries": [
+      "white fitted long-sleeve top with baggy black jeans",
+      "reclining outfit photo with cuffed dark denim",
+      "pale top and wide dark jeans with a hanging waist accessory",
+      "dark-haired anime swordsman with a white shirt and black jacket",
+      "silver supercar parked beside dark vehicles on a city street",
+      "black long-sleeve top with wide faded blue jeans",
+      "white top paired with skinny blue trousers"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_14.jpg",
+    "queries": [
+      "side profile of a silver open-top sports car",
+      "low silver roadster against a gray paneled wall",
+      "silver car with dark wheels in bright sunlight",
+      "black-haired anime swordswoman in flowing black robes",
+      "cream track jacket with striped sleeves",
+      "silver sports car parked on a city street at night",
+      "silver car with its roof closed at night"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_28.jpg",
+    "queries": [
+      "silver sports car parked on a city street at night",
+      "front three-quarter view of a silver coupe beside a sidewalk",
+      "silver supercar beneath illuminated city buildings",
+      "blue-haired anime character holding a sword in front of the face",
+      "matching light striped jacket and baggy trousers",
+      "silver supercar parked beside a hedge under a cloudy sky",
+      "rear view of a blue car in a showroom"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_29.jpg",
+    "queries": [
+      "silver supercar parked beside a hedge under a cloudy sky",
+      "front three-quarter view of a silver car with an oval grille",
+      "silver coupe with blue brake calipers outdoors",
+      "red-haired anime fighter standing with one hand raised",
+      "light knit cardigan with gray trousers",
+      "rear three-quarter view of a silver supercar inside a dark showroom",
+      "silver sports car inside a brightly lit showroom"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_15.jpg",
+    "queries": [
+      "rear three-quarter view of a silver supercar inside a dark showroom",
+      "silver car with a rear wing under rectangular ceiling lights",
+      "metallic sports car beneath bright geometric lights",
+      "white-haired anime fighter reaching toward the viewer",
+      "beige zip-up jacket with black trousers",
+      "silver angular supercar with a raised door outside a garage",
+      "red supercar beneath palm trees"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_33.jpg",
+    "queries": [
+      "black long-sleeve top with wide faded blue jeans",
+      "mirror selfie with a large black handbag",
+      "dark fitted top and baggy denim by a white door",
+      "pink-haired anime fighter holding a kunai",
+      "front view of a silver supercar with dark hood stripes indoors",
+      "brown blazer with loose light blue jeans",
+      "black top paired with a blue skirt"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_8.jpg",
+    "queries": [
+      "black-haired anime fighter punching through yellow energy",
+      "white shirt and blue pants on an anime action character",
+      "outstretched fist surrounded by yellow flames in an illustration",
+      "silver supercar parked beside a hedge under a cloudy sky",
+      "brown checked shirt with a dark necktie",
+      "blond anime character upside down against a blue sky",
+      "black-haired character standing with hands in pockets"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_27.jpg",
+    "queries": [
+      "brown blazer with loose light blue jeans",
+      "seated outfit with a light cap and red shoes",
+      "casual jacket and wide denim on a park bench",
+      "orange-haired anime character sitting with knees drawn up",
+      "rear three-quarter view of a silver sports car against a dark wall",
+      "black T-shirt with wide black shorts",
+      "brown blazer paired with blue shorts"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_31.jpg",
+    "queries": [
+      "black T-shirt with wide black shorts",
+      "white socks and black shoes with a dark summer outfit",
+      "green cap with an all-black shirt and shorts outfit",
+      "dark-haired anime character with red gloves in an action pose",
+      "rear three-quarter view of a silver supercar at night",
+      "black hooded jacket with baggy dark jeans",
+      "black T-shirt with red shorts and bare ankles"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_25.jpg",
     "queries": [
       "black hooded jacket with baggy dark jeans",
-      "streetwear outfit with tan boots",
-      "dark layered outfit in a grocery aisle",
+      "dark cap and white face mask in a grocery-store outfit",
+      "loose black denim and tan boots under a dark hoodie",
+      "black-haired anime swordsman in an open pale blue shirt",
+      "silver open-top supercar with raised doors beneath palm trees",
+      "white button-up shirt tucked into wide gray trousers",
+      "black jacket paired with white shorts"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_19.jpg",
+    "queries": [
+      "white button-up shirt tucked into wide gray trousers",
+      "rolled shirt sleeves with a black belt and loose dress pants",
+      "mirror selfie in a white collared shirt and gray pants",
+      "orange-haired anime character in a black graphic T-shirt",
+      "gray sports car parked along an urban curb",
+      "beige zip-up jacket with black trousers",
+      "white shirt with tight red trousers"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_17.jpg",
+    "queries": [
+      "silver angular supercar with a raised door outside a garage",
+      "front three-quarter view of a silver car beside a white house",
+      "silver sports car with an upward-opening door",
+      "blond anime character wearing a brown and navy jacket",
+      "brown checked shirt with a dark necktie",
+      "gray sports car parked along an urban curb",
+      "rear view of a red car inside a showroom"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_f80_2.JPG",
+    "queries": [
+      "gray sports car parked along an urban curb",
+      "front three-quarter view of a low gray supercar",
+      "gray car with a rear wing beside tall city buildings",
+      "blond anime character upside down against a blue sky",
+      "white and navy striped polo with wide black trousers",
+      "overhead view of a silver sports car on a road",
+      "rear view of a bright red car on a beach"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_918_spider.jpg",
+    "queries": [
+      "overhead view of a silver sports car on a road",
+      "silver coupe with a black roof and rear wing",
+      "high-angle photo of a silver supercar between road markings",
+      "dark-haired anime swordsman with a white shirt and black jacket",
+      "red and dark striped long-sleeve top with baggy black jeans",
+      "silver supercar on a palm-lined shopping street",
+      "silver car parked indoors beneath ceiling lights"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_jacket_9.jpg",
+    "queries": [
+      "beige zip-up jacket with black trousers",
+      "plain beige collared jacket without sleeve stripes",
+      "light jacket and blue neck scarf in a mirror selfie",
+      "blond anime ninja holding a blue energy sphere",
+      "side view of a silver supercar in a parking garage",
+      "cream track jacket with striped sleeves",
+      "black leather jacket with red trousers"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_16.jpg",
+    "queries": [
+      "silver supercar on a palm-lined shopping street",
+      "front three-quarter view of a silver car with a dark oval grille",
+      "silver coupe parked beside other cars in daylight",
+      "pink-haired anime fighter holding a kunai",
+      "cream track jacket with striped sleeves",
+      "silver supercar with a large rear wing on a tree-lined road",
+      "silver car inside a dark garage at night"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_18.jpg",
+    "queries": [
+      "gray toggle jacket with wide gray trousers",
+      "layered gray outfit with black shoes",
+      "dark gray jacket with metal clasps beside a stone wall",
+      "golden-haired anime fighter standing among broken rocks",
+      "silver supercar parked beside dark vehicles on a city street",
+      "gray fitted top with baggy blue jeans",
+      "brown jacket with white shorts"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_24.jpg",
+    "queries": [
+      "gray fitted top with baggy blue jeans",
+      "wide faded denim and a brown belt indoors",
+      "cropped gray shirt and dark shoes beside a window",
+      "young blond anime ninja holding cats",
+      "front view of a silver supercar with dark hood stripes indoors",
+      "white pinstriped shirt with wide dark trousers",
+      "gray top paired with a short black skirt"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_30.jpg",
+    "queries": [
+      "white pinstriped shirt with wide dark trousers",
+      "rolled-up striped sleeves and a wristwatch",
+      "light button-up shirt over loose black pants",
+      "close-up anime face with a character reflected in goggles",
+      "rear three-quarter view of a silver sports car against a dark wall",
+      "brown checked shirt with a dark necktie",
+      "striped shirt paired with dark shorts"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_semi_formal_2.JPG",
+    "queries": [
+      "white open-collar shirt with wide black trousers",
+      "loose black dress pants and a belt in an outdoor outfit",
+      "rolled white shirt sleeves with glasses hanging at the chest",
+      "long dark-haired anime fighter with a red tail",
+      "rear three-quarter view of a silver supercar at night",
+      "dark gray structured jacket with loose gray trousers",
+      "white shirt worn with a red necktie"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_29.jpg",
+    "queries": [
+      "dark gray structured jacket with loose gray trousers",
+      "light baseball cap with a gray streetwear outfit",
+      "hands-in-pockets outfit in matching dark gray layers",
+      "anime outfit with a black T-shirt and baggy dark trousers",
+      "silver open-top supercar with raised doors beneath palm trees",
+      "navy and cream striped T-shirt with blue jeans",
+      "gray jacket paired with white shorts"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_6.jpg",
+    "queries": [
+      "blond anime character upside down against a blue sky",
+      "flowing white outerwear over black clothing in an anime illustration",
+      "inverted anime swordsman with golden hair",
+      "side view of a silver coupe outside a modern building",
+      "white and navy striped polo with wide black trousers",
+      "dark-haired anime fighter surrounded by blue flames",
+      "blond character wearing an orange tracksuit"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_15.jpg",
+    "queries": [
+      "navy and cream striped T-shirt with blue jeans",
+      "short-sleeve striped top with sunglasses hanging at the collar",
+      "casual denim outfit with a cap resting on the leg",
+      "orange-haired anime swordsman holding a blade",
+      "gray sports car parked along an urban curb",
+      "beige hooded jacket with metal clasps",
+      "long-sleeve white shirt with a necktie"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_2.jpg",
+    "queries": [
+      "silver supercar with a large rear wing on a tree-lined road",
+      "front three-quarter view of a silver car on cobblestones",
+      "low silver sports car surrounded by green foliage",
+      "orange-haired anime character sitting with knees drawn up",
+      "cream track jacket with striped sleeves",
+      "side view of a silver coupe outside a modern building",
+      "rear view of a red car in the snow"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_27.jpg",
+    "queries": [
+      "side view of a silver coupe outside a modern building",
+      "silver sports car beside large glass windows",
+      "low silver car parked along a gray urban facade",
+      "dark-haired anime character with red gloves in an action pose",
+      "matching light striped jacket and baggy trousers",
+      "side view of a silver sports car in an underground garage",
+      "silver car photographed inside a garage"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_33.jpg",
+    "queries": [
+      "side view of a silver sports car in an underground garage",
+      "silver car with a rear wing beside a white column",
+      "low coupe parked indoors next to a covered vehicle",
+      "black-haired anime swordsman in an open pale blue shirt",
+      "light knit cardigan with gray trousers",
+      "front view of a silver supercar at night",
+      "front view of a blue car in falling snow"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_chiron_1.JPG",
+    "queries": [
+      "front view of a silver supercar at night",
+      "silver car with a large dark oval grille under street lighting",
+      "sports car facing the camera beside palm trees after dark",
+      "orange-haired anime character in a black graphic T-shirt",
+      "beige zip-up jacket with black trousers",
+      "side view of a silver supercar in a parking garage",
+      "red sports car parked inside a snowy forest"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_42.jpg",
+    "queries": [
+      "dark-haired anime fighter surrounded by blue flames",
+      "crouching anime character with one hand near the ground",
+      "white shirt and dark trousers in a blue-flame action scene",
+      "overhead rear three-quarter view of a silver sports car",
+      "red and dark striped long-sleeve top with baggy black jeans",
+      "white-haired anime character stretching an arm",
+      "dark-haired character sitting peacefully at a table"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_jacket_5.jpg",
+    "queries": [
+      "beige hooded jacket with metal clasps",
+      "tan jacket over a white shirt and patterned tie",
+      "light hooded outerwear with cream trousers",
+      "black-haired anime boy holding a sword",
+      "side view of a silver supercar in a parking garage",
+      "cream track jacket with striped sleeves",
+      "black leather jacket over a red T-shirt"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_43.jpg",
+    "queries": [
+      "white-haired anime character stretching an arm",
+      "smiling anime fighter in a fitted black T-shirt",
+      "muscular character wearing light trousers and a dark waist sash",
+      "rear three-quarter view of a dark gray supercar outdoors",
+      "cream track jacket with striped sleeves",
+      "spiky dark-haired anime fighter holding a glowing energy ball",
+      "white-haired character holding a sword overhead"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_32.jpg",
+    "queries": [
+      "side view of a silver supercar in a parking garage",
+      "silver coupe with yellow brake calipers indoors",
+      "low silver car parked against a white wall",
+      "blond anime ninja holding a blue energy sphere",
+      "brown checked shirt with a dark necktie",
+      "rear view of a silver supercar in a dark showroom",
+      "front view of a red car outdoors"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_26.jpg",
+    "queries": [
+      "rear view of a silver supercar in a dark showroom",
+      "silver car with a rear wing beneath rectangular ceiling lights",
+      "rear engine area and wing of a metallic sports car indoors",
+      "golden-haired anime fighter standing among broken rocks",
+      "white and navy striped polo with wide black trousers",
+      "rear three-quarter view of a silver coupe on a city street",
+      "red car beneath trees in daylight"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_jacket_16.jpg",
+    "queries": [
+      "brown jacket",
+      "light brown toggle jacket with dark wide trousers",
+      "brown collared jacket with gold-colored clasps outdoors",
+      "spiky dark-haired anime fighter holding a glowing energy ball",
+      "silver supercar parked beside dark vehicles on a city street",
+      "light knit cardigan with gray trousers",
+      "black jacket with white trousers"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_3.jpg",
+    "queries": [
+      "rear three-quarter view of a silver coupe on a city street",
+      "silver sports car with a large black rear wing",
+      "dark wheels and a silver body outside a storefront",
+      "young blond anime ninja holding cats",
+      "red and dark striped long-sleeve top with baggy black jeans",
+      "silver supercar parked beside a hedge under a cloudy sky",
+      "silver car without a rear spoiler"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_14.jpg",
+    "queries": [
+      "light knit cardigan with gray trousers",
+      "button-front cream cardigan and a hanging trouser chain",
+      "pale textured knitwear over loose gray pants",
+      "two anime characters against a vivid red background",
+      "front view of a silver supercar with dark hood stripes indoors",
+      "matching light striped jacket and baggy trousers",
+      "cream cardigan paired with tight red jeans"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_7.jpg",
+    "queries": [
+      "spiky dark-haired anime fighter holding a glowing energy ball",
+      "white baggy pants and a blue sash in an anime action pose",
+      "blue-white energy surrounding an illustrated martial artist",
+      "silver supercar displayed inside a bright showroom",
+      "cream track jacket with striped sleeves",
+      "blond ninja adjusting a headband with both hands",
+      "dark-haired character holding a bowl of noodles"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_28.jpg",
+    "queries": [
+      "matching light striped jacket and baggy trousers",
+      "red tie and white shoes with a pale striped outfit",
+      "loose coordinated outfit beside a brick wall",
+      "orange-haired anime fighter surrounded by blue energy",
+      "rear three-quarter view of a silver sports car against a dark wall",
+      "navy sweater with wide brown trousers",
+      "striped jacket paired with dark shorts"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_5.jpg",
+    "queries": [
+      "blond ninja adjusting a headband with both hands",
+      "black and orange jacket over a mesh shirt in anime art",
+      "spiky-haired character with raised elbows on a white background",
+      "front view of a silver sports car in a showroom",
+      "matching light striped jacket and baggy trousers",
+      "golden-haired anime fighter standing among broken rocks",
+      "blond character with both hands in pockets"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_16.jpg",
+    "queries": [
+      "navy sweater with wide brown trousers",
+      "dark knit top tucked into loose brown pants",
+      "black shoes and a belt with a navy sweater outdoors",
+      "red-haired anime fighter crouching with one hand on the ground",
+      "rear three-quarter view of a silver supercar at night",
+      "brown jacket",
+      "navy top paired with brown shorts"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_1.jpg",
+    "queries": [
+      "silver sports car on a road beneath a blue sky",
+      "front three-quarter view of a silver coupe near other vehicles",
+      "low silver car with dark headlights in daylight",
+      "close-up anime face with a character reflected in goggles",
+      "cream track jacket with striped sleeves",
+      "overhead rear three-quarter view of a silver sports car",
+      "silver car parked inside an underground garage"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_jacket_14.jpg",
+    "queries": [
+      "brown jacket",
+      "brown zip-up jacket over a black shirt",
+      "brown collared jacket with dark jeans indoors",
+      "blond anime character wearing headphones on a red sofa",
+      "silver open-top supercar with raised doors beneath palm trees",
+      "brown jacket over a checked shirt with wide dark trousers",
+      "white jacket over a red shirt"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_18.jpg",
+    "queries": [
+      "overhead rear three-quarter view of a silver sports car",
+      "silver car with visible rear engine details beside a curb",
+      "high-angle photo of a silver coupe on a street",
+      "long dark-haired anime fighter with a red tail",
+      "cream track jacket with striped sleeves",
+      "rear view of a silver sports coupe in a parking garage",
+      "silver car inside a brightly lit showroom"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_30.jpg",
+    "queries": [
+      "rear view of a silver sports coupe in a parking garage",
+      "silver car with a large rear wing beside another parked car",
+      "dark wheels and a wide rear spoiler indoors",
+      "anime outfit with a black T-shirt and baggy dark trousers",
+      "matching light striped jacket and baggy trousers",
+      "silver supercar outside an ornate building entrance",
+      "silver coupe without a rear wing"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_24.jpg",
+    "queries": [
+      "silver supercar outside an ornate building entrance",
+      "front three-quarter view of a silver car with tan interior",
+      "silver coupe with an oval grille on a city street",
+      "orange-haired anime swordsman holding a blade",
+      "light knit cardigan with gray trousers",
+      "rear three-quarter view of a silver supercar at night",
+      "silver car parked on a snowy mountain road"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_chiron_2.JPG",
+    "queries": [
+      "silver supercar parked beside dark vehicles on a city street",
+      "front view of a silver coupe with a large oval grille",
+      "silver sports car with a dark roof in daylight",
+      "black-haired anime boy holding a sword",
+      "beige zip-up jacket with black trousers",
+      "side view of a silver sports car beside a stone building",
+      "silver car inside a white showroom"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_41.jpg",
+    "queries": [
+      "golden-haired anime fighter standing among broken rocks",
+      "spiky-haired character in a torn dark blue outfit",
+      "anime martial artist with clenched fists on shattered ground",
+      "silver sports car at a brightly lit gas station at night",
+      "light knit cardigan with gray trousers",
+      "short brown-haired anime character with red eyes",
+      "golden-haired character wearing an undamaged white suit"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_40.jpg",
+    "queries": [
+      "short brown-haired anime character with red eyes",
+      "white high-neck top under black straps in an anime portrait",
+      "red-eyed illustrated character against a red and cream background",
+      "silver supercar parked beside a hedge under a cloudy sky",
+      "beige zip-up jacket with black trousers",
+      "dark-haired anime swordsman with a white shirt and black jacket",
+      "brown-haired character wearing a helmet and visor"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_25.jpg",
+    "queries": [
+      "side view of a silver sports car beside a stone building",
+      "silver coupe parked near palm-like plants at night",
+      "low silver car beneath a wall-mounted light",
+      "spiky dark-haired anime fighter holding a glowing energy ball",
+      "brown checked shirt with a dark necktie",
+      "silver supercar with raised doors on a street at night",
+      "silver car inside a plain concrete garage"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_31.jpg",
+    "queries": [
+      "silver supercar with raised doors on a street at night",
+      "front three-quarter view of a silver car under warm streetlights",
+      "open-door silver sports car beside trees after dark",
+      "two anime characters against a vivid red background",
+      "white and navy striped polo with wide black trousers",
+      "high-angle front view of a gray supercar outside a garage",
+      "rear view of a black car on a snowy road"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_19.jpg",
+    "queries": [
+      "high-angle front view of a gray supercar outside a garage",
+      "dark gray sports car with silver wheels in sunlight",
+      "gray car parked on concrete beside a large industrial door",
+      "orange-haired anime fighter surrounded by blue energy",
+      "red and dark striped long-sleeve top with baggy black jeans",
+      "rear three-quarter view of a dark gray supercar outdoors",
+      "gray car inside an underground parking lot"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_17.jpg",
+    "queries": [
+      "brown jacket over a checked shirt with wide dark trousers",
+      "dark baseball cap with a brown outer layer",
+      "baggy streetwear outfit at a pedestrian crossing",
+      "blond anime character eating at a table",
+      "gray sports car parked along an urban curb",
+      "white raglan shirt with dark sleeves and loose black trousers",
+      "white blazer with slim blue jeans"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_4.jpg",
+    "queries": [
+      "dark-haired anime swordsman with a white shirt and black jacket",
+      "blue-toned anime portrait with a blade across the foreground",
+      "red armband on an illustrated character's dark sleeve",
+      "side view of a silver coupe outside a modern building",
+      "brown checked shirt with a dark necktie",
+      "blond anime character wearing an eyepatch and green hoodie",
+      "dark-haired character wearing a red helmet"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_13.jpg",
+    "queries": [
+      "white raglan shirt with dark sleeves and loose black trousers",
+      "reclining outfit with a brown belt and pointed dark shoes",
+      "casual long-sleeve top and baggy pants on a denim sofa",
+      "black-haired anime character lifting a helmet visor",
+      "side view of a silver supercar in a parking garage",
+      "cream track jacket with striped sleeves",
+      "white top paired with blue shorts"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_4.jpg",
+    "queries": [
+      "rear three-quarter view of a dark gray supercar outdoors",
+      "gray sports car with round red taillights on concrete",
+      "high-angle rear view of a low car outside a garage",
+      "red-haired anime fighter crouching with one hand on the ground",
+      "cream track jacket with striped sleeves",
+      "front three-quarter view of an angular silver supercar",
+      "red car parked on a snowy street"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_jacket_11.jpg",
+    "queries": [
+      "cream track jacket with striped sleeves",
+      "off-white Adidas toggle jacket with blue jeans",
+      "light jacket with dark sleeve stripes in a mirror selfie",
+      "dark-haired anime fighter surrounded by blue flames",
+      "silver supercar parked beside dark vehicles on a city street",
+      "gray textured jacket with metal clasps",
+      "brown jacket with white trousers"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_35.jpg",
+    "queries": [
+      "front three-quarter view of an angular silver supercar",
+      "silver sports car parked on a paved driveway",
+      "low silver car with triangular headlights outdoors",
+      "blond anime character wearing headphones on a red sofa",
+      "cream track jacket with striped sleeves",
+      "silver supercar with a rear wing in a parking garage",
+      "silver car with both doors raised"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_21.jpg",
+    "queries": [
+      "silver supercar with a rear wing in a parking garage",
+      "front three-quarter view of a silver car under fluorescent lights",
+      "silver sports car beside a yellow pillar and block wall",
+      "blond anime character eating at a table",
+      "matching light striped jacket and baggy trousers",
+      "front view of a silver supercar with dark hood stripes indoors",
+      "silver car on a sunny palm-lined street"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_44.jpg",
+    "queries": [
+      "blond anime character wearing an eyepatch and green hoodie",
+      "anime portrait with a hand pointing toward the head",
+      "colorful fragments beside a blond illustrated character",
+      "overhead rear three-quarter view of a silver sports car",
+      "white and navy striped polo with wide black trousers",
+      "red-haired anime fighter with two fingers near the face",
+      "blond character with both eyes uncovered and hands in pockets"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_45.jpg",
+    "queries": [
+      "red-haired anime fighter with two fingers near the face",
+      "torn blue and orange outfit on a spiky-haired character",
+      "red-haired martial artist against a blue sky",
+      "rear three-quarter view of a dark gray supercar outdoors",
+      "red and dark striped long-sleeve top with baggy black jeans",
+      "two anime characters against a vivid red background",
+      "red-haired fighter holding a sword"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_20.jpg",
+    "queries": [
+      "front view of a silver supercar with dark hood stripes indoors",
+      "silver sports car beneath geometric showroom lights",
+      "metallic coupe with a black center stripe in a dark room",
+      "black-haired anime character lifting a helmet visor",
+      "light knit cardigan with gray trousers",
+      "front view of a gray sports car on a narrow city street",
+      "plain red sports car without hood stripes"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_34.jpg",
+    "queries": [
+      "front view of a gray sports car on a narrow city street",
+      "gray coupe between pale yellow buildings in daylight",
+      "low sports car parked near outdoor cafe tables",
+      "dark-haired anime fighter surrounded by blue flames",
+      "beige zip-up jacket with black trousers",
+      "front view of a silver supercar inside a bright showroom",
+      "gray car on a snowy mountain road"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_jacket_10.jpg",
+    "queries": [
+      "cream track jacket with striped sleeves",
+      "off-white toggle jacket with wide dark jeans",
+      "striped cream sleeves and yellow sneakers in a mirror selfie",
+      "blond anime character wearing an eyepatch and green hoodie",
+      "front view of a silver supercar with dark hood stripes indoors",
+      "blue hoodie with wide dark shorts and tan boots",
+      "brown jacket paired with white shorts"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_5.jpg",
+    "queries": [
+      "front view of a silver supercar inside a bright showroom",
+      "silver sports car with dark hood vents indoors",
+      "low silver coupe on a tiled showroom floor",
+      "blond anime character wearing an eyepatch and green hoodie",
+      "brown checked shirt with a dark necktie",
+      "silver sports car on a driveway at night",
+      "silver car parked outside at night"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_1.jpg",
+    "queries": [
+      "two anime characters against a vivid red background",
+      "black-and-white anime duo with flowing dark clothing",
+      "dark-haired and light-haired characters in a graphic illustration",
+      "silver supercar displayed inside a bright showroom",
+      "cream track jacket with striped sleeves",
       "white-haired anime character with bright blue eyes",
-      "silver supercar in an underground parking garage",
-      "white-haired anime character reaching forward"
+      "two characters wearing bright green tracksuits"
     ],
     "label": [
       1,
       1,
       1,
+      0,
       0,
       0,
       0
@@ -1129,99 +2421,21 @@
   },
   {
     "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_19.jpg",
+    "image_filename": "data/fashion_12.jpg",
     "queries": [
-      "white button-up shirt with wide-leg gray trousers",
-      "tucked-in shirt and black belt outfit",
-      "smart casual mirror selfie",
-      "young Naruto surrounded by cats",
-      "silver supercar with black racing stripes",
-      "red-haired Goku crouching with one hand on the ground"
+      "blue hoodie with wide dark shorts and tan boots",
+      "large checked scarf with a blue streetwear top",
+      "baseball cap and fringed scarf in an outdoor outfit",
+      "golden-haired anime fighter wearing a pale cape",
+      "rear three-quarter view of a silver sports car against a dark wall",
+      "dark striped long-sleeve top with wide gray trousers",
+      "blue top paired with a short skirt"
     ],
     "label": [
       1,
       1,
       1,
       0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_17.jpg",
-    "queries": [
-      "silver Ferrari Enzo with a raised door",
-      "supercar parked outside a residential garage",
-      "angular silver sports car with an open door",
-      "brown blazer with light baggy jeans",
-      "blond Super Saiyan in a dark outfit and pale cape",
-      "gray cardigan over a white shirt and black tie"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_f80_2.JPG",
-    "queries": [
-      "silver track-style supercar parked at a curb",
-      "sports car with a large rear wing on a city street",
-      "silver supercar with yellow accents",
-      "oversized black T-shirt and long black shorts",
-      "Rukia crouching with a sword",
-      "charcoal henley shirt with loose black trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_918_spider.jpg",
-    "queries": [
-      "overhead view of a silver Porsche 918",
-      "silver sports car on a paved road",
-      "high-angle photo of a mid-engine supercar",
-      "black hooded jacket with baggy dark jeans",
-      "Ichigo with a sword and blue energy",
-      "brown textured sweater with cream wide-leg trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_16.jpg",
-    "queries": [
-      "silver Bugatti parked beneath palm trees",
-      "luxury sports car on a shopping street",
-      "front three-quarter view of a silver coupe",
-      "white button-up shirt with wide-leg gray trousers",
-      "Naruto in an airborne tumbling pose",
-      "white T-shirt with cuffed dark jeans"
-    ],
-    "label": [
-      1,
-      1,
-      1,
       0,
       0,
       0
@@ -1229,19 +2443,21 @@
   },
   {
     "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_18.jpg",
+    "image_filename": "data/fashion_10.jpg",
     "queries": [
-      "layered gray jacket and knitwear outfit",
-      "gray wide-leg trousers with black shoes",
-      "monochrome gray outfit with metal jacket fastenings",
-      "Ichigo and Rukia with a large sword",
-      "silver Ferrari with dark hood stripes",
-      "Super Saiyan 4 Goku with a long red tail"
+      "dark striped long-sleeve top with wide gray trousers",
+      "cream sweater tied around the waist over loose pants",
+      "black shoes and a striped shirt against a plain wall",
+      "long pale-haired anime character inside a giant open mouth",
+      "rear three-quarter view of a silver supercar at night",
+      "olive green jacket with loose blue jeans",
+      "striped top paired with gray shorts"
     ],
     "label": [
       1,
       1,
       1,
+      0,
       0,
       0,
       0
@@ -1249,79 +2465,21 @@
   },
   {
     "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_24.jpg",
+    "image_filename": "data/fashion_38.jpg",
     "queries": [
-      "fitted gray top with baggy blue jeans",
-      "wide-leg denim and a brown belt",
-      "casual outfit beside a bright window",
-      "Sakura holding a kunai",
-      "front view of a silver LaFerrari indoors",
-      "red-haired Goku standing with one hand raised"
+      "olive green jacket with loose blue jeans",
+      "high-collar green outerwear and tan shoes",
+      "mirror selfie in a green jacket and baggy denim",
+      "orange-haired anime swordsman in a white winter coat",
+      "silver open-top supercar with raised doors beneath palm trees",
+      "off-white jacket with metal clasps laid on a black sofa",
+      "red jacket with tight black trousers"
     ],
     "label": [
       1,
       1,
       1,
       0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_30.jpg",
-    "queries": [
-      "white pinstriped shirt with black trousers",
-      "rolled sleeves and a rectangular wristwatch",
-      "loose black pants with polished shoes",
-      "blond Super Saiyan in a dark outfit and pale cape",
-      "silver sports car outside a house at night",
-      "Goku and Vegeta standing together"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_semi_formal_2.JPG",
-    "queries": [
-      "white open-collar shirt with wide-leg dark trousers",
-      "relaxed shirt outfit with a brown belt",
-      "smart casual outfit photographed outdoors",
-      "Rukia crouching with a sword",
-      "silver supercar with a raised door indoors",
-      "Naruto making a hand sign"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_29.jpg",
-    "queries": [
-      "cropped gray jacket with pleated gray trousers",
-      "gray outfit with a white baseball cap",
-      "oversized jacket and tailored pants streetwear",
-      "Ichigo with a sword and blue energy",
-      "silver track-style supercar with red accents",
-      "young Naruto wearing goggles"
-    ],
-    "label": [
-      1,
-      1,
-      1,
       0,
       0,
       0
@@ -1329,159 +2487,21 @@
   },
   {
     "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_6.jpg",
+    "image_filename": "data/anime_3.jpg",
     "queries": [
-      "blond anime swordsman in an upside-down pose",
-      "white outer robe over black anime clothing",
-      "anime sword artwork against a blue sky",
-      "silver Ferrari Enzo with a raised door",
-      "red and dark striped hoodie",
-      "cropped gray jacket with pleated gray trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_15.jpg",
-    "queries": [
-      "navy and cream striped T-shirt with jeans",
-      "casual striped shirt with a brown belt",
-      "blue denim outfit with tan shoes and a cap",
-      "Naruto in an airborne tumbling pose",
-      "high-angle front view of a silver Porsche 918",
-      "Naruto forming a blue energy sphere"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_2.jpg",
-    "queries": [
-      "silver supercar on a cobblestone driveway",
-      "sports car with a large rear wing beneath trees",
-      "front view of a low silver performance car",
-      "layered gray jacket and knitwear outfit",
-      "white-haired anime character reaching forward",
-      "fitted white graphic T-shirt with baggy black pants"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_27.jpg",
-    "queries": [
-      "side profile of a silver sports coupe",
-      "silver car outside a modern concrete building",
-      "low two-door sports car in daylight",
-      "fitted gray top with baggy blue jeans",
-      "Ichigo sitting in green pants",
-      "pale striped T-shirt with wide-leg black jeans"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_33.jpg",
-    "queries": [
-      "silver Porsche parked in an underground garage",
-      "side view of a silver coupe with a rear wing",
-      "sports car parked beside a covered vehicle",
-      "white pinstriped shirt with black trousers",
-      "teal-haired anime character reaching toward the viewer",
-      "brown short-sleeve top layered over cream sleeves"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_chiron_1.JPG",
-    "queries": [
-      "silver Bugatti photographed from the front at night",
-      "luxury sports car beneath palm trees",
-      "silver car beside a brightly lit building",
-      "white open-collar shirt with wide-leg dark trousers",
-      "blue-haired anime character holding a handgun vertically",
-      "navy long-sleeve top with wide-leg dark trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_42.jpg",
-    "queries": [
-      "Sasuke surrounded by blue lightning",
-      "anime ninja in a diving action pose",
-      "black-haired swordsman with a purple rope belt",
-      "silver track-style supercar parked at a curb",
-      "silver sports car in a busy parking area",
-      "matching pale striped jacket and trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_43.jpg",
-    "queries": [
-      "smiling white-haired anime character stretching an arm",
-      "muscular anime character in a fitted black shirt",
-      "anime portrait on a white background",
-      "overhead view of a silver Porsche 918",
+      "white-haired anime character with bright blue eyes",
+      "close-up anime portrait with a high black collar",
+      "pale-haired character facing forward on a white background",
+      "front view of a silver sports car in a showroom",
       "cream track jacket with striped sleeves",
-      "striped polo shirt with wide-leg black pants"
+      "young blond anime ninja holding cats",
+      "white-haired character wearing an orange helmet"
     ],
     "label": [
       1,
       1,
       1,
+      0,
       0,
       0,
       0
@@ -1489,59 +2509,21 @@
   },
   {
     "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_32.jpg",
+    "image_filename": "data/silver_supercar_7.jpg",
     "queries": [
-      "silver Ferrari parked in an underground garage",
-      "side profile of a low silver sports car",
-      "silver coupe with yellow brake calipers",
-      "cropped gray jacket with pleated gray trousers",
-      "red-haired Goku crouching with one hand on the ground",
-      "blue hoodie with a long checked scarf"
+      "silver sports car on a driveway at night",
+      "front three-quarter view of a silver coupe outside a dark house",
+      "low silver car illuminated against a nighttime background",
+      "golden-haired anime fighter wearing a pale cape",
+      "white and navy striped polo with wide black trousers",
+      "silver supercar displayed inside a bright showroom",
+      "rear view of a red car on a snowy road"
     ],
     "label": [
       1,
       1,
       1,
       0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_26.jpg",
-    "queries": [
-      "rear view of a silver supercar in a showroom",
-      "sports car with a wide rear wing and black accents",
-      "metallic car beneath bright ceiling panels",
-      "navy and cream striped T-shirt with jeans",
-      "Naruto holding a glowing blue energy sphere",
-      "dark striped top with olive wide-leg trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_3.jpg",
-    "queries": [
-      "silver Porsche with an oversized rear wing",
-      "sports coupe parked beside a storefront",
-      "rear side view of a silver performance car",
-      "light gray cardigan with loose gray trousers",
-      "Super Saiyan 4 Goku with a long red tail",
-      "light blue beanie with wide striped trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
       0,
       0,
       0
@@ -1549,439 +2531,65 @@
   },
   {
     "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_14.jpg",
+    "image_filename": "data/fashion_jacket_12.jpg",
     "queries": [
-      "light gray cardigan with loose gray trousers",
-      "ribbed knit cardigan and silver waist chain",
-      "neutral outfit photographed from above",
-      "white-haired anime character reaching forward",
-      "rear three-quarter view of a silver sports car",
-      "black-haired anime character wielding a flaming weapon"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_7.jpg",
-    "queries": [
-      "Dragon Ball fighter holding a glowing energy sphere",
-      "spiky-haired anime character with white pants",
-      "anime battle artwork with swirling white energy",
-      "silver Bugatti parked beneath palm trees",
-      "rear view of a silver Porsche in a garage",
-      "gray cardigan over a white shirt and black tie"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_28.jpg",
-    "queries": [
-      "matching pale striped jacket and trousers",
-      "striped outfit with a burgundy tie",
-      "wide-leg pants and white sneakers",
-      "Ichigo sitting in green pants",
-      "silver Ferrari surrounded by autumn leaves",
-      "blond anime swordsman in an upside-down pose"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_5.jpg",
-    "queries": [
-      "Naruto tying his headband",
-      "blond ninja holding a kunai in his mouth",
-      "orange and black jacket over a mesh shirt",
-      "silver supercar on a cobblestone driveway",
-      "cropped gray jacket with pleated gray trousers",
-      "matching pale striped jacket and trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_16.jpg",
-    "queries": [
-      "navy sweater with wide-leg brown pants",
-      "dark knitwear tucked into belted trousers",
-      "casual autumn outfit on a cobblestone sidewalk",
-      "teal-haired anime character reaching toward the viewer",
-      "pale blue supercar at an indoor auto show",
-      "Sasuke surrounded by blue lightning"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_1.jpg",
-    "queries": [
-      "silver sports car in a busy parking area",
-      "front three-quarter view of a silver Ferrari",
-      "low coupe beneath a partly cloudy sky",
-      "matching pale striped jacket and trousers",
-      "Ichigo and another anime character beneath a full moon",
-      "black jacket with a gray fur-trimmed hood"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_18.jpg",
-    "queries": [
-      "overhead view of a silver Porsche Carrera GT",
-      "silver supercar parked along a curb",
-      "high-angle car photo showing rear engine vents",
-      "navy sweater with wide-leg brown pants",
-      "black-haired anime character with a bright red glove",
-      "gray cardigan over a white shirt and black tie"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_30.jpg",
-    "queries": [
-      "rear view of a silver Porsche in a garage",
-      "silver sports car with a large black wing",
-      "performance coupe in an indoor parking space",
-      "brown jacket over a checked shirt",
-      "Ichigo in a white winter coat and scarf",
-      "charcoal henley shirt with loose black trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_24.jpg",
-    "queries": [
-      "silver and dark blue Bugatti outside a hotel",
-      "luxury coupe with a tan interior",
-      "front three-quarter view of a two-tone supercar",
-      "white and gray raglan shirt with baggy black jeans",
-      "red-haired Goku standing with one hand raised",
-      "brown textured sweater with cream wide-leg trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_chiron_2.JPG",
-    "queries": [
-      "silver and black Bugatti parked on a city street",
-      "luxury sports car beside a dark SUV",
-      "front view of a silver supercar in daylight",
-      "blue hoodie with a long checked scarf",
-      "blond anime character wearing green headphones",
-      "white T-shirt with cuffed dark jeans"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_41.jpg",
-    "queries": [
-      "blond Super Saiyan standing among broken rocks",
-      "Dragon Ball fighter in a torn dark outfit",
-      "anime battle scene with clenched fists",
-      "side profile of a silver sports coupe",
-      "silver and black Bugatti parked on a city street",
-      "cream track jacket with striped sleeves"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_40.jpg",
-    "queries": [
-      "short-haired anime character with red eyes",
-      "anime portrait with a cigarette",
-      "white high-neck shirt under black overall straps",
-      "silver Porsche parked in an underground garage",
-      "red and dark striped hoodie",
-      "cropped gray jacket with pleated gray trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_25.jpg",
-    "queries": [
-      "side view of a silver sports car at night",
-      "silver coupe beside a stone building",
-      "parked supercar beneath palm-like trees",
-      "dark striped top with olive wide-leg trousers",
-      "Goku and Vegeta standing together",
-      "fitted white graphic T-shirt with baggy black pants"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_31.jpg",
-    "queries": [
-      "silver supercar with both doors raised at night",
-      "sports car with blue racing stripes",
-      "open-door supercar beside a tree-lined street",
-      "olive high-collar jacket with blue jeans",
-      "Naruto raising his arm",
-      "pale striped T-shirt with wide-leg black jeans"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_19.jpg",
-    "queries": [
-      "high-angle front view of a dark gray LaFerrari",
-      "metallic supercar outside a garage",
-      "gray sports car with silver multi-spoke wheels",
-      "dark cardigan over a checked shirt",
-      "Sasuke holding a sword",
-      "brown short-sleeve top layered over cream sleeves"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_17.jpg",
-    "queries": [
-      "brown jacket over a checked shirt",
-      "black baseball cap with very wide dark pants",
-      "layered streetwear beside a crosswalk",
-      "blue-haired anime character holding a handgun vertically",
-      "front view of a silver open-top Bugatti",
-      "Dragon Ball fighter holding a glowing energy sphere"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_4.jpg",
-    "queries": [
-      "dark-haired anime character holding a sword",
-      "blue-toned anime portrait with headphones",
-      "anime character with a pale spectral figure behind them",
-      "silver Bugatti photographed from the front at night",
-      "silver supercar with both doors raised at night",
-      "matching pale striped jacket and trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_13.jpg",
-    "queries": [
-      "white and gray raglan shirt with baggy black jeans",
-      "casual outfit with a brown belt",
-      "relaxed denim outfit on a sofa",
-      "red-haired Goku crouching with one hand on the ground",
-      "silver Ferrari in a showroom",
-      "Naruto tying his headband"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_4.jpg",
-    "queries": [
-      "rear three-quarter view of a dark gray LaFerrari",
-      "gray supercar outside an industrial garage",
-      "sports car with round red taillights",
-      "light blue beanie with wide striped trousers",
-      "Naruto seen from behind",
-      "navy long-sleeve top with wide-leg dark trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_35.jpg",
-    "queries": [
-      "silver Ferrari Enzo in a driveway",
-      "front three-quarter view of an angular supercar",
-      "silver sports car with five-spoke wheels",
-      "black jacket with a gray fur-trimmed hood",
-      "silver-haired Goku action artwork",
-      "black oversized jacket with wide-leg jeans"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_21.jpg",
-    "queries": [
-      "silver supercar in an underground parking garage",
-      "low coupe with a dark central hood section",
-      "front three-quarter view of a silver performance car",
-      "fitted white graphic T-shirt with baggy black pants",
-      "Naruto eating noodles at a table",
-      "black blazer with baggy gray trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_44.jpg",
-    "queries": [
-      "blond anime character with an eyepatch",
-      "anime portrait in a green hoodie",
-      "colorful paint-splash artwork with a finger-gun pose",
-      "silver Ferrari parked in an underground garage",
+      "off-white jacket with metal clasps laid on a black sofa",
+      "light jacket without sleeve stripes in a flat-lay photo",
+      "pale stand-collar jacket with snap buttons and front clasps",
+      "blond anime ninja viewed from behind with an arm raised",
+      "gray sports car parked along an urban curb",
       "cream track jacket with striped sleeves",
-      "gray cardigan over a white shirt and black tie"
+      "brown jacket worn over a red shirt"
     ],
     "label": [
       1,
       1,
       1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_22.jpg",
+    "queries": [
+      "silver supercar displayed inside a bright showroom",
+      "front three-quarter view of a silver car with dark hood vents",
+      "silver sports car with a raised door indoors",
+      "long pale-haired anime character inside a giant open mouth",
+      "red and dark striped long-sleeve top with baggy black jeans",
+      "silver supercar with raised doors on a street at night",
+      "rear view of a red car on a beach"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_36.jpg",
+    "queries": [
+      "front view of a silver supercar with a large rear wing",
+      "silver car with a dark central hood panel on a driveway",
+      "sports car with red trim near trees in evening light",
+      "orange-haired anime swordsman in a white winter coat",
+      "cream track jacket with striped sleeves",
+      "high-angle front view of a silver sports car in a dark showroom",
+      "silver car without a rear wing"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
       0,
       0,
       0
@@ -1989,14 +2597,15 @@
   },
   {
     "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_45.jpg",
+    "image_filename": "data/anime_kid_naruto.JPG",
     "queries": [
-      "red-haired Goku in a snowy setting",
-      "Dragon Ball character wearing a torn blue top",
-      "Super Saiyan God Goku artwork",
-      "rear view of a silver supercar in a showroom",
-      "rear three-quarter view of a dark gray LaFerrari",
-      "striped polo shirt with wide-leg black pants"
+      "young blond anime ninja holding cats",
+      "orange outfit and blue headband on a crouching anime character",
+      "smiling anime child surrounded by pale cats",
+      "silver sports car at a brightly lit gas station at night",
+      "matching light striped jacket and baggy trousers",
+      "orange-haired anime swordsman wearing a long pale cape",
+      "blond character standing alone in a black suit"
     ],
     "label": [
       1,
@@ -2004,19 +2613,21 @@
       1,
       0,
       0,
+      0,
       0
     ]
   },
   {
     "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_20.jpg",
+    "image_filename": "data/silver_supercar_37.jpg",
     "queries": [
-      "silver supercar with black racing stripes",
-      "front view of a sports car in a dark showroom",
-      "metallic performance car under bright display lights",
-      "brown short-sleeve top layered over cream sleeves",
-      "blond anime character in an upside-down pose",
-      "black T-shirt with loose blue jeans"
+      "high-angle front view of a silver sports car in a dark showroom",
+      "silver coupe with a large rear wing indoors",
+      "metallic car viewed from above beneath dim lighting",
+      "blond anime ninja viewed from behind with an arm raised",
+      "cream track jacket with striped sleeves",
+      "rear three-quarter view of a silver sports car against a dark wall",
+      "silver car without a rear wing"
     ],
     "label": [
       1,
@@ -2024,19 +2635,21 @@
       1,
       0,
       0,
+      0,
       0
     ]
   },
   {
     "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_34.jpg",
+    "image_filename": "data/silver_supercar_23.jpg",
     "queries": [
-      "silver Ferrari with dark hood stripes",
-      "sports car parked on a sunny narrow street",
-      "front view of a supercar between yellow buildings",
-      "white T-shirt with cuffed dark jeans",
-      "Ichigo holding a sword",
-      "cream track jacket with striped sleeves"
+      "rear three-quarter view of a silver sports car against a dark wall",
+      "silver coupe with a large rear diffuser and light wheels",
+      "low silver car outside a modern paneled building",
+      "blond headband-wearing ninja making hand signs",
+      "matching light striped jacket and baggy trousers",
+      "silver sports car on ground covered in yellow leaves",
+      "silver car parked in a snowy forest"
     ],
     "label": [
       1,
@@ -2044,24 +2657,467 @@
       1,
       0,
       0,
+      0,
       0
     ]
   },
   {
     "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_5.jpg",
+    "image_filename": "data/silver_supercar_6.jpg",
     "queries": [
-      "front view of a silver LaFerrari indoors",
-      "silver Ferrari with sculpted hood vents",
-      "supercar displayed on a tiled floor",
-      "navy long-sleeve top with wide-leg dark trousers",
+      "silver sports car on ground covered in yellow leaves",
+      "front three-quarter view of a silver coupe in an autumn setting",
+      "silver car with black wheels near trees and grass",
+      "black-haired anime fighter punching through yellow energy",
+      "light knit cardigan with gray trousers",
+      "silver supercar at an indoor auto show",
+      "rear view of a red car in a showroom"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_2.jpg",
+    "queries": [
+      "orange-haired anime swordsman wearing a long pale cape",
+      "black robes and a large sword in an anime illustration",
+      "standing orange-haired character against a blue background",
+      "silver supercar parked beside a hedge under a cloudy sky",
+      "light knit cardigan with gray trousers",
+      "pink-haired anime fighter holding a kunai",
+      "orange-haired character sitting at a dining table"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_39.jpg",
+    "queries": [
+      "dark cardigan over a checked shirt with wide charcoal trousers",
+      "loose dark outfit while drinking from a red cup",
+      "layered knitwear and baggy gray pants outside a cafe",
+      "blond headband-wearing ninja making hand signs",
+      "side view of a silver supercar in a parking garage",
+      "light jacket with wide striped trousers",
+      "red cardigan paired with tight white trousers"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_11.jpg",
+    "queries": [
+      "light jacket with wide striped trousers",
+      "pale blue beanie and loose vertically striped pants",
+      "seated outfit with metallic shoes and a light outer layer",
+      "black-haired anime fighter punching through yellow energy",
+      "silver supercar parked beside dark vehicles on a city street",
+      "dark jacket with a gray hood and very baggy blue jeans",
+      "light jacket with red shorts"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_21.jpg",
+    "queries": [
+      "pink-haired anime fighter holding a kunai",
+      "red sleeveless outfit against a blue background",
+      "anime character extending a hand while gripping a dark blade",
+      "side view of a silver coupe outside a modern building",
+      "beige zip-up jacket with black trousers",
+      "golden-haired anime fighter wearing a pale cape",
+      "pink-haired character holding a basketball"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_35.jpg",
+    "queries": [
+      "golden-haired anime fighter wearing a pale cape",
+      "dark sleeveless outfit and boots on a spiky-haired character",
+      "standing martial artist gripping the edge of a cape",
+      "overhead rear three-quarter view of a silver sports car",
+      "brown checked shirt with a dark necktie",
+      "black-haired anime swordswoman in flowing black robes",
+      "golden-haired character sitting in a chair"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_34.jpg",
+    "queries": [
+      "black-haired anime swordswoman in flowing black robes",
+      "crouching illustrated character holding a sword",
+      "dark-robed fighter on a plain white background",
+      "rear three-quarter view of a dark gray supercar outdoors",
+      "white and navy striped polo with wide black trousers",
+      "orange-haired anime fighter surrounded by blue energy",
+      "black-haired character standing with a bowl of food"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_20.jpg",
+    "queries": [
+      "orange-haired anime fighter surrounded by blue energy",
+      "black-robed swordsman with a blade near the face",
+      "dynamic anime illustration with dark clothing and turquoise effects",
+      "silver supercar displayed inside a bright showroom",
+      "red and dark striped long-sleeve top with baggy black jeans",
+      "blond anime ninja tumbling through the air",
+      "orange-haired character wearing a white business suit"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_jacket_streewear.JPG",
+    "queries": [
+      "dark jacket with a gray hood and very baggy blue jeans",
+      "wide denim and reddish shoes outside a wooden storefront",
+      "hooded streetwear outfit with hands in jacket pockets",
+      "short brown-haired anime character with red eyes",
+      "front view of a silver supercar with dark hood stripes indoors",
+      "white fitted graphic T-shirt with baggy black trousers",
+      "dark jacket paired with blue shorts"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_1.jpg",
+    "queries": [
+      "white fitted graphic T-shirt with baggy black trousers",
+      "black cap and yellow belt in a casual streetwear outfit",
+      "small yellow bag with a white tee and wide dark pants",
+      "orange-haired anime swordsman wearing a long pale cape",
+      "rear three-quarter view of a silver sports car against a dark wall",
+      "brown striped short-sleeve top over cream long sleeves",
+      "white shirt paired with red shorts"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_3.jpg",
+    "queries": [
+      "brown striped short-sleeve top over cream long sleeves",
+      "layered fitted shirts with loose blue jeans",
+      "mirror selfie in a brown top and wide denim",
+      "white-haired anime character pointing toward the viewer",
+      "rear three-quarter view of a silver supercar at night",
+      "white fitted T-shirt with cuffed dark jeans",
+      "brown striped top paired with blue shorts"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_36.jpg",
+    "queries": [
+      "blond anime ninja tumbling through the air",
+      "orange trousers and a dark jacket in an illustrated action pose",
+      "headband-wearing character reaching toward the ground",
+      "front view of a silver sports car in a showroom",
+      "cream track jacket with striped sleeves",
+      "close-up anime face with a character reflected in goggles",
+      "blond ninja sitting at a dining table"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_22.jpg",
+    "queries": [
+      "close-up anime face with a character reflected in goggles",
+      "orange and black illustration of protective goggles",
+      "anime portrait with a small helmeted figure in the lens reflection",
+      "silver sports car at a brightly lit gas station at night",
+      "cream track jacket with striped sleeves",
+      "white-haired anime character pointing toward the viewer",
+      "full-body character wearing a red business suit"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_23.jpg",
+    "queries": [
+      "white-haired anime character pointing toward the viewer",
+      "dark high-collar outfit with purple energy effects",
+      "foreshortened hand in a white-haired anime portrait",
+      "silver supercar parked beside a hedge under a cloudy sky",
+      "matching light striped jacket and baggy trousers",
+      "orange-haired anime character sitting with knees drawn up",
+      "white-haired character with both hands in pockets"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_37.jpg",
+    "queries": [
+      "orange-haired anime character sitting with knees drawn up",
+      "white short-sleeve shirt and green trousers in an illustration",
+      "seated anime boy wearing white sneakers",
+      "side view of a silver coupe outside a modern building",
+      "light knit cardigan with gray trousers",
+      "long pale-haired anime character inside a giant open mouth",
+      "orange-haired character wearing red shorts"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_2.jpg",
+    "queries": [
+      "white fitted T-shirt with cuffed dark jeans",
+      "black baseball cap and wide denim in a seated outfit",
+      "black boots and a white tee beside a stone wall",
+      "orange-haired anime character in a black coat beneath a full moon",
+      "silver open-top supercar with raised doors beneath palm trees",
+      "fitted navy long-sleeve top with wide dark jeans",
+      "white T-shirt paired with blue shorts"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_6.jpg",
+    "queries": [
+      "fitted navy long-sleeve top with wide dark jeans",
+      "dark blue outfit with a visible light waistband",
+      "loose dark denim and navy knitwear outdoors",
+      "blond anime ninja raising an arm above his head",
+      "gray sports car parked along an urban curb",
+      "gray cardigan over a white shirt and dark tie",
+      "navy top paired with a short white skirt"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_33.jpg",
+    "queries": [
+      "long pale-haired anime character inside a giant open mouth",
+      "crouching illustrated character reaching forward beneath large teeth",
+      "dark blue clothing and a huge toothed mouth on a dark background",
+      "overhead rear three-quarter view of a silver sports car",
+      "beige zip-up jacket with black trousers",
+      "blue-haired anime character holding a sword in front of the face",
+      "pale-haired character wearing an orange suit"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_27.jpg",
+    "queries": [
+      "blue-haired anime character holding a sword in front of the face",
+      "black suit and tie in a blue-toned anime portrait",
+      "vertical blade dividing an illustrated character's face",
+      "rear three-quarter view of a dark gray supercar outdoors",
+      "brown checked shirt with a dark necktie",
+      "red-haired anime fighter crouching with one hand on the ground",
+      "blue-haired character holding a bowl of soup"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_goku_2.JPG",
+    "queries": [
+      "red-haired anime fighter crouching with one hand on the ground",
+      "torn blue top and orange pants in an anime action pose",
+      "spiky red hair and blue boots on a white background",
+      "silver supercar displayed inside a bright showroom",
+      "white and navy striped polo with wide black trousers",
+      "blond anime ninja holding a glowing blue energy sphere",
+      "red-haired fighter sitting in a chair"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_old_money.JPG",
+    "queries": [
+      "gray cardigan over a white shirt and dark tie",
+      "wide black trousers with gray button-front knitwear",
+      "dressed-up outfit with a collared shirt in a hallway",
       "blue-haired anime character in an orange sweater",
-      "red and dark striped hoodie"
+      "side view of a silver supercar in a parking garage",
+      "gray striped short-sleeve top with wide black trousers",
+      "gray cardigan over a black tank top without a tie"
     ],
     "label": [
       1,
       1,
       1,
+      0,
       0,
       0,
       0
@@ -2069,79 +3125,21 @@
   },
   {
     "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_1.jpg",
+    "image_filename": "data/anime_26.jpg",
     "queries": [
-      "two anime characters against a red background",
-      "black and white character artwork with flowing clothing",
-      "anime duo with a sword and long ponytail",
-      "silver Porsche with an oversized rear wing",
-      "red and dark striped hoodie",
-      "cropped gray jacket with pleated gray trousers"
+      "blond anime ninja holding a glowing blue energy sphere",
+      "mesh shirt beneath a dark open jacket in anime art",
+      "spiky-haired fighter reaching forward with blue energy",
+      "front view of a silver sports car in a showroom",
+      "red and dark striped long-sleeve top with baggy black jeans",
+      "long dark-haired anime fighter with a red tail",
+      "blond character eating noodles at a table"
     ],
     "label": [
       1,
       1,
       1,
       0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_12.jpg",
-    "queries": [
-      "blue hoodie with a long checked scarf",
-      "baggy dark jeans with tan sneakers",
-      "winter streetwear with a patterned beanie",
-      "Naruto holding a glowing blue energy sphere",
-      "silver supercar on a city street",
-      "blond Super Saiyan standing among broken rocks"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_10.jpg",
-    "queries": [
-      "dark striped top with olive wide-leg trousers",
-      "pale yellow sweater tied around the waist",
-      "relaxed outfit with loose earth-tone pants",
-      "Super Saiyan 4 Goku with a long red tail",
-      "gray supercar at an intersection",
-      "dark-haired anime character holding a sword"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_38.jpg",
-    "queries": [
-      "olive high-collar jacket with blue jeans",
-      "casual mirror selfie in a green jacket",
-      "dark denim with tan boots",
-      "Ichigo and another anime character beneath a full moon",
-      "silver supercar parked at night",
-      "red-haired Goku in a snowy setting"
-    ],
-    "label": [
-      1,
-      1,
-      1,
       0,
       0,
       0
@@ -2149,839 +3147,285 @@
   },
   {
     "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_3.jpg",
+    "image_filename": "data/anime_32.jpg",
     "queries": [
+      "long dark-haired anime fighter with a red tail",
+      "yellow trousers and red-furred arms in an anime illustration",
+      "tailed martial artist against a pale green background",
+      "silver sports car at a brightly lit gas station at night",
+      "cream track jacket with striped sleeves",
+      "orange-haired anime character in a black coat beneath a full moon",
+      "dark-haired character wearing a white business suit"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_7.jpg",
+    "queries": [
+      "gray striped short-sleeve top with wide black trousers",
+      "dark cap and black shoulder bag in an elevator mirror selfie",
+      "loose dark pants and a fitted striped shirt",
+      "blond anime boy wearing goggles on his forehead",
+      "silver supercar parked beside dark vehicles on a city street",
+      "charcoal long-sleeve Henley with wide black trousers",
+      "striped shirt paired with black shorts"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_5.jpg",
+    "queries": [
+      "charcoal long-sleeve Henley with wide black trousers",
+      "brown shoulder bag with a dark button-neck shirt",
+      "loose dark outfit photographed from above outdoors",
+      "blond ninja adjusting a headband with both hands",
+      "front view of a silver supercar with dark hood stripes indoors",
+      "brown fuzzy sweater over a collared shirt and tie",
+      "charcoal shirt paired with blue shorts"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_41.jpg",
+    "queries": [
+      "silver supercar at an indoor auto show",
+      "front three-quarter view of a silver car beneath many ceiling lights",
+      "silver sports car displayed on a carpeted exhibition floor",
+      "short brown-haired anime character with red eyes",
+      "beige zip-up jacket with black trousers",
+      "front view of a silver supercar parked on a sunny street",
+      "silver car parked outdoors under palm trees"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_24.jpg",
+    "queries": [
+      "orange-haired anime character in a black coat beneath a full moon",
+      "two dark-clad anime characters under a cloudy night sky",
+      "white neck cloth and a large moon in an anime illustration",
+      "silver supercar parked beside a hedge under a cloudy sky",
+      "cream track jacket with striped sleeves",
+      "dark-haired anime character with red gloves in an action pose",
+      "orange-haired character wearing a red tracksuit indoors"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_30.jpg",
+    "queries": [
+      "dark-haired anime character with red gloves in an action pose",
+      "black coat and a blade in a monochrome-style illustration",
+      "crouching illustrated fighter with a red-gloved hand extended",
+      "side view of a silver coupe outside a modern building",
+      "matching light striped jacket and baggy trousers",
+      "orange-haired anime swordsman in a white winter coat",
+      "dark-haired character sitting at a dining table"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_18.jpg",
+    "queries": [
+      "orange-haired anime swordsman in a white winter coat",
+      "white scarf and fur-trimmed coat in a snowy mountain setting",
+      "black robes under pale outerwear in an anime illustration",
+      "overhead rear three-quarter view of a silver sports car",
+      "light knit cardigan with gray trousers",
+      "red-haired anime fighter standing with one hand raised",
+      "orange-haired character wearing shorts in a desert"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_goku_1.JPG",
+    "queries": [
+      "red-haired anime fighter standing with one hand raised",
+      "torn blue shirt and orange trousers on a white background",
+      "spiky red hair and blue boots in a full-body illustration",
+      "rear three-quarter view of a dark gray supercar outdoors",
+      "beige zip-up jacket with black trousers",
+      "blond anime character wearing headphones on a red sofa",
+      "red-haired character crouching with a hand on the ground"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_19.jpg",
+    "queries": [
+      "blond anime character wearing headphones on a red sofa",
+      "reclining illustrated character beside a crate of records",
+      "olive sweater and green headphones in an anime indoor scene",
+      "silver supercar displayed inside a bright showroom",
+      "brown checked shirt with a dark necktie",
+      "two spiky-haired anime fighters standing side by side",
+      "blond character wearing a red suit with no headphones"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_31.jpg",
+    "queries": [
+      "two spiky-haired anime fighters standing side by side",
+      "orange outfit and blue armored suit in an anime duo",
+      "dark-haired martial artists against a pale dusty background",
+      "front view of a silver sports car in a showroom",
+      "white and navy striped polo with wide black trousers",
+      "anime outfit with a black T-shirt and baggy dark trousers",
+      "two characters wearing white business suits"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "anime",
+    "image_filename": "data/anime_25.jpg",
+    "queries": [
+      "anime outfit with a black T-shirt and baggy dark trousers",
+      "illustrated black-and-white sneakers beside yellow flowers",
+      "crouching character in loose dark clothing under a blue sky",
+      "silver sports car at a brightly lit gas station at night",
+      "red and dark striped long-sleeve top with baggy black jeans",
+      "blond anime ninja raising an arm above his head",
+      "character wearing brown boots on a snowy ground"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "car",
+    "image_filename": "data/silver_supercar_40.jpg",
+    "queries": [
+      "front view of a silver supercar parked on a sunny street",
+      "angular silver car with a large black oval grille",
+      "low silver sports car beside an urban sidewalk",
+      "orange-haired anime swordsman wearing a long pale cape",
+      "brown checked shirt with a dark necktie",
+      "front view of a silver sports car in a showroom",
+      "silver car photographed at night under gas-station lights"
+    ],
+    "label": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "category": "fashion",
+    "image_filename": "data/fashion_4.jpg",
+    "queries": [
+      "brown fuzzy sweater over a collared shirt and tie",
+      "wide cream trousers with brown knitwear",
+      "loose pale pants and a dark belt in a layered outfit",
       "white-haired anime character with bright blue eyes",
-      "Gojo portrait with a black high collar",
-      "close-up anime face on a white background",
-      "silver sports car in a busy parking area",
-      "silver supercar in an underground parking garage",
-      "matching pale striped jacket and trousers"
+      "rear three-quarter view of a silver sports car against a dark wall",
+      "black oversized jacket with wide-leg dark jeans",
+      "brown sweater paired with tight blue jeans"
     ],
     "label": [
       1,
       1,
       1,
       0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_7.jpg",
-    "queries": [
-      "silver sports car outside a house at night",
-      "front three-quarter view of a silver coupe",
-      "supercar parked on a dark residential driveway",
-      "gray cardigan over a white shirt and black tie",
-      "Ichigo in a black graphic T-shirt",
-      "striped polo shirt with wide-leg black pants"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_22.jpg",
-    "queries": [
-      "silver supercar with a raised door indoors",
-      "sports car on display in a bright showroom",
-      "silver performance car with a black front splitter",
-      "pale striped T-shirt with wide-leg black jeans",
-      "Naruto making a hand sign",
-      "cream toggle jacket with baggy black jeans"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_36.jpg",
-    "queries": [
-      "silver track-style supercar with red accents",
-      "front view of a sports car with a large rear wing",
-      "supercar parked on a palm-lined driveway at dusk",
-      "charcoal henley shirt with loose black trousers",
-      "blond anime character in a bomber jacket",
-      "black quarter-zip sweater over a shirt and tie"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_kid_naruto.JPG",
-    "queries": [
-      "young Naruto surrounded by cats",
-      "blond anime ninja crouching in an orange outfit",
-      "playful Naruto illustration on a white background",
-      "overhead view of a silver Porsche Carrera GT",
-      "cream track jacket with striped sleeves",
-      "gray cardigan over a white shirt and black tie"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_37.jpg",
-    "queries": [
-      "high-angle front view of a silver Porsche 918",
-      "silver supercar in a dim indoor showroom",
-      "sports car parked on dark floor tiles",
-      "brown textured sweater with cream wide-leg trousers",
-      "black-haired anime character lifting ski goggles",
-      "fitted black top with baggy khaki pants"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_23.jpg",
-    "queries": [
-      "rear three-quarter view of a silver sports car",
-      "silver coupe against a dark industrial wall",
-      "low supercar with large silver wheels",
-      "black oversized jacket with wide-leg jeans",
-      "Ichigo and Rukia sword artwork",
-      "black long-sleeve top with cuffed dark jeans"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_6.jpg",
-    "queries": [
-      "silver Ferrari surrounded by autumn leaves",
-      "sports car parked beside a wooded lawn",
-      "silver coupe with black wheels in an autumn setting",
-      "black blazer with baggy gray trousers",
-      "black-haired anime swordsman crouching",
-      "brown checked shirt with a black tie"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_2.jpg",
-    "queries": [
-      "Ichigo and Rukia with a large sword",
-      "anime duo in black and white robes",
-      "Bleach artwork with a pale flowing cloak",
-      "rear view of a silver Porsche in a garage",
-      "silver Ferrari with dark hood stripes",
-      "cropped gray jacket with pleated gray trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_39.jpg",
-    "queries": [
-      "dark cardigan over a checked shirt",
-      "wide-leg charcoal trousers with black shoes",
-      "layered casual outfit outside a cafe",
-      "black-haired anime character with a bright red glove",
-      "white supercar with both doors raised",
-      "two anime characters against a red background"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_11.jpg",
-    "queries": [
-      "light blue beanie with wide striped trousers",
-      "pale jacket and baggy striped pants",
-      "seated streetwear outfit with metallic shoes",
-      "Ichigo in a white winter coat and scarf",
-      "silver Porsche at sunset",
-      "white-haired anime character with bright blue eyes"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_21.jpg",
-    "queries": [
-      "Sakura holding a kunai",
-      "pink-haired anime ninja against a blue background",
-      "red sleeveless outfit in a fighting pose",
-      "silver and dark blue Bugatti outside a hotel",
-      "matching pale striped jacket and trousers",
-      "cream track jacket with striped sleeves"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_35.jpg",
-    "queries": [
-      "blond Super Saiyan in a dark outfit and pale cape",
-      "Dragon Ball fighter adjusting a wristband",
-      "spiky-haired anime character on a white background",
-      "silver and black Bugatti parked on a city street",
-      "silver sports car outside a house at night",
-      "striped polo shirt with wide-leg black pants"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_34.jpg",
-    "queries": [
-      "Rukia crouching with a sword",
-      "black-haired anime swordswoman in black robes",
-      "minimal black and white anime action artwork",
-      "side view of a silver sports car at night",
-      "red and dark striped hoodie",
-      "cropped gray jacket with pleated gray trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_20.jpg",
-    "queries": [
-      "Ichigo with a sword and blue energy",
-      "orange-haired anime swordsman in black",
-      "dynamic Bleach portrait with glowing blue streaks",
-      "silver supercar with both doors raised at night",
-      "silver track-style supercar with red accents",
-      "matching pale striped jacket and trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_jacket_streewear.JPG",
-    "queries": [
-      "black jacket with a gray fur-trimmed hood",
-      "baggy dark blue jeans with brown shoes",
-      "winter streetwear outside a wooden storefront",
-      "red-haired Goku standing with one hand raised",
-      "silver Pagani with black wheels",
-      "young Naruto surrounded by cats"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_1.jpg",
-    "queries": [
-      "fitted white graphic T-shirt with baggy black pants",
-      "yellow belt and yellow handbag outfit",
-      "casual streetwear with a black cap",
-      "blond anime character wearing green headphones",
-      "silver convertible supercar at a gas station",
-      "Ichigo and Rukia with a large sword"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_3.jpg",
-    "queries": [
-      "brown short-sleeve top layered over cream sleeves",
-      "wide-leg blue jeans with light shoes",
-      "casual layered outfit in a mirror selfie",
-      "Goku and Vegeta standing together",
-      "silver Pagani in an indoor garage",
-      "Sakura holding a kunai"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_36.jpg",
-    "queries": [
-      "Naruto in an airborne tumbling pose",
-      "blond anime ninja in an orange and black outfit",
-      "dynamic full-body Naruto illustration",
-      "high-angle front view of a dark gray LaFerrari",
-      "cream track jacket with striped sleeves",
-      "gray cardigan over a white shirt and black tie"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_22.jpg",
-    "queries": [
-      "close-up anime face wearing goggles",
-      "anime character reflected in a goggle lens",
-      "stylized portrait with a small star cheek marking",
-      "rear three-quarter view of a dark gray LaFerrari",
-      "rear three-quarter view of a silver sports car",
-      "cropped gray jacket with pleated gray trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_23.jpg",
-    "queries": [
-      "white-haired anime character reaching forward",
-      "dark anime outfit with pale purple energy",
-      "dramatic anime portrait on a white background",
-      "silver Ferrari Enzo in a driveway",
-      "matching pale striped jacket and trousers",
-      "striped polo shirt with wide-leg black pants"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_37.jpg",
-    "queries": [
-      "Ichigo sitting in green pants",
-      "orange-haired anime character in a white shirt",
-      "casual anime outfit with white high-top shoes",
-      "silver supercar in an underground parking garage",
-      "pale blue supercar at an indoor auto show",
-      "cream track jacket with striped sleeves"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_2.jpg",
-    "queries": [
-      "white T-shirt with cuffed dark jeans",
-      "black baseball cap and loafers outfit",
-      "casual seated outfit with a black belt",
-      "Naruto raising his arm",
-      "silver Porsche with a large rear wing",
-      "blond Super Saiyan in a dark outfit and pale cape"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_6.jpg",
-    "queries": [
-      "navy long-sleeve top with wide-leg dark trousers",
-      "dark casual outfit with a visible white underlayer",
-      "loose monochrome outfit photographed outdoors",
-      "Sasuke holding a sword",
-      "silver supercar with doors and rear bodywork open",
-      "Rukia crouching with a sword"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_33.jpg",
-    "queries": [
-      "teal-haired anime character reaching toward the viewer",
-      "anime character framed by a giant open mouth",
-      "dynamic anime artwork on a dark background",
-      "silver supercar with black racing stripes",
-      "red and dark striped hoodie",
-      "gray cardigan over a white shirt and black tie"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_27.jpg",
-    "queries": [
-      "blue-haired anime character holding a handgun vertically",
-      "anime portrait in a black suit and tie",
-      "watercolor-style character artwork on a white background",
-      "silver Ferrari with dark hood stripes",
-      "silver Ferrari in a showroom",
-      "matching pale striped jacket and trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_goku_2.JPG",
-    "queries": [
-      "red-haired Goku crouching with one hand on the ground",
-      "Dragon Ball fighter in torn orange pants",
-      "Super Saiyan God action pose",
-      "front view of a silver LaFerrari indoors",
-      "cream track jacket with striped sleeves",
-      "cropped gray jacket with pleated gray trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_old_money.JPG",
-    "queries": [
-      "gray cardigan over a white shirt and black tie",
-      "wide-leg black trousers with dress shoes",
-      "classic neutral outfit in a hallway",
-      "Naruto seen from behind",
-      "silver Ferrari Enzo with a raised door",
-      "Ichigo with a sword and blue energy"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_26.jpg",
-    "queries": [
-      "Naruto holding a glowing blue energy sphere",
-      "blond anime ninja in a mesh shirt",
-      "Naruto action artwork with swirling blue energy",
-      "silver sports car outside a house at night",
-      "gray supercar at an intersection",
-      "gray cardigan over a white shirt and black tie"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_32.jpg",
-    "queries": [
-      "Super Saiyan 4 Goku with a long red tail",
-      "Dragon Ball character in yellow pants",
-      "long-haired anime fighter against a pale green background",
-      "silver supercar with a raised door indoors",
-      "red and dark striped hoodie",
-      "matching pale striped jacket and trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_7.jpg",
-    "queries": [
-      "pale striped T-shirt with wide-leg black jeans",
-      "baseball cap and small black shoulder bag",
-      "casual elevator mirror selfie",
-      "silver-haired Goku action artwork",
-      "side view of a silver open-top supercar",
-      "Naruto in an airborne tumbling pose"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_5.jpg",
-    "queries": [
-      "charcoal henley shirt with loose black trousers",
-      "dark casual outfit with a brown shoulder bag",
-      "long-sleeve button-neck top photographed from above",
-      "Naruto eating noodles at a table",
-      "silver Ferrari parked in a city at night",
-      "white-haired anime character reaching forward"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_41.jpg",
-    "queries": [
-      "pale blue supercar at an indoor auto show",
-      "sports car with large silver wheels",
-      "front three-quarter view of a supercar under exhibition lights",
-      "black T-shirt with loose blue jeans",
-      "young Naruto wearing goggles",
-      "long black coat with wide-leg brown trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_24.jpg",
-    "queries": [
-      "Ichigo and another anime character beneath a full moon",
-      "anime characters wearing black cloaks",
-      "dramatic night artwork with clouds and moonlight",
-      "silver track-style supercar with red accents",
-      "white supercar with both doors raised",
-      "cropped gray jacket with pleated gray trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_30.jpg",
-    "queries": [
-      "black-haired anime character with a bright red glove",
-      "dynamic black and white anime artwork",
-      "dark-coated character reaching toward the viewer",
-      "high-angle front view of a silver Porsche 918",
-      "cream track jacket with striped sleeves",
-      "striped polo shirt with wide-leg black pants"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_18.jpg",
-    "queries": [
-      "Ichigo in a white winter coat and scarf",
-      "orange-haired anime swordsman in snowy mountains",
-      "white fur-trimmed coat over black robes",
-      "rear three-quarter view of a silver sports car",
-      "silver Pagani with black wheels",
-      "red and dark striped hoodie"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_goku_1.JPG",
-    "queries": [
-      "red-haired Goku standing with one hand raised",
-      "Dragon Ball character in torn orange pants",
-      "Super Saiyan God on a white background",
-      "silver Ferrari surrounded by autumn leaves",
-      "matching pale striped jacket and trousers",
-      "gray cardigan over a white shirt and black tie"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_19.jpg",
-    "queries": [
-      "blond anime character wearing green headphones",
-      "anime character reclining among books",
-      "cozy illustrated room with a record player",
-      "pale blue supercar at an indoor auto show",
-      "silver Pagani in an indoor garage",
-      "cropped gray jacket with pleated gray trousers"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_31.jpg",
-    "queries": [
-      "Goku and Vegeta standing together",
-      "two Dragon Ball fighters in a dusty setting",
-      "anime duo in orange and blue outfits",
-      "front view of a silver open-top Bugatti",
-      "cream track jacket with striped sleeves",
-      "striped polo shirt with wide-leg black pants"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "anime",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/anime_25.jpg",
-    "queries": [
-      "anime streetwear with baggy black pants",
-      "illustrated black T-shirt and high-top sneakers",
-      "cropped anime outfit beside yellow flowers",
-      "silver Ferrari in a showroom",
-      "silver supercar with doors and rear bodywork open",
-      "red and dark striped hoodie"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "car",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/silver_supercar_40.jpg",
-    "queries": [
-      "front view of a silver open-top Bugatti",
-      "silver supercar parked on a sunny shopping street",
-      "luxury sports car with a large black grille",
-      "cream track jacket with striped sleeves",
-      "Naruto forming a blue energy sphere",
-      "gray cropped jacket with baggy black pants"
-    ],
-    "label": [
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "category": "fashion",
-    "image_filename": "/Users/srjdat/Development/pinterest-feeder/data/fashion_4.jpg",
-    "queries": [
-      "brown textured sweater with cream wide-leg trousers",
-      "shirt and tie layered under a brown sweater",
-      "neutral smart casual outfit with black shoes",
-      "blond anime character in an upside-down pose",
-      "silver Bugatti on an overcast day",
-      "Ichigo sitting in green pants"
-    ],
-    "label": [
-      1,
-      1,
-      1,
       0,
       0,
       0
